@@ -1,0 +1,7493 @@
+,INCIDENTNEIGHBORHOOD
+0,Bloomfield
+1,Outside City
+2,Westwood
+3,East Allegheny
+4,Crafton Heights
+5,Greenfield
+6,Brookline
+7,Regent Square
+8,East Liberty
+9,
+10,East Hills
+11,Carrick
+12,East Allegheny
+13,Crafton Heights
+14,East Allegheny
+15,Allegheny Center
+16,East Allegheny
+17,South Side Flats
+18,Brookline
+19,Sheraden
+20,South Side Flats
+21,East Carnegie
+22,Golden Triangle/Civic Arena
+23,South Side Flats
+24,Point Breeze North
+25,Perry South
+26,South Side Flats
+27,Allentown
+28,Allentown
+29,Golden Triangle/Civic Arena
+30,North Shore
+31,Marshall-Shadeland
+32,Central Oakland
+33,Middle Hill
+34,South Side Flats
+35,Strip District
+36,Allegheny Center
+37,Lincoln-Lemington-Belmar
+38,Central Northside
+39,Troy Hill-Herrs Island
+40,South Side Flats
+41,Highland Park
+42,
+43,Perry South
+44,Homewood North
+45,Northview Heights
+46,Central Oakland
+47,Brighton Heights
+48,Bloomfield
+49,Hazelwood
+50,Perry North
+51,Homewood North
+52,Bedford Dwellings
+53,Sheraden
+54,East Liberty
+55,Elliott
+56,Beechview
+57,East Hills
+58,Golden Triangle/Civic Arena
+59,East Allegheny
+60,Fineview
+61,Carrick
+62,Glen Hazel
+63,Glen Hazel
+64,Spring Hill-City View
+65,
+66,Central Oakland
+67,Sheraden
+68,Fineview
+69,Marshall-Shadeland
+70,Golden Triangle/Civic Arena
+71,Elliott
+72,East Allegheny
+73,Central Northside
+74,Central Northside
+75,East Liberty
+76,Bluff
+77,Carrick
+78,South Side Flats
+79,Beechview
+80,Manchester
+81,East Hills
+82,Homewood West
+83,Outside County
+84,Brookline
+85,Carrick
+86,Point Breeze
+87,Golden Triangle/Civic Arena
+88,South Side Flats
+89,South Side Flats
+90,Homewood West
+91,Carrick
+92,East Allegheny
+93,Homewood North
+94,Beechview
+95,Homewood South
+96,Squirrel Hill South
+97,Northview Heights
+98,Terrace Village
+99,Spring Hill-City View
+100,Homewood North
+101,Homewood North
+102,Homewood North
+103,Crafton Heights
+104,Strip District
+105,Bloomfield
+106,Homewood West
+107,Homewood West
+108,Lincoln-Lemington-Belmar
+109,Bloomfield
+110,Upper Lawrenceville
+111,Arlington
+112,East Allegheny
+113,South Side Slopes
+114,Bluff
+115,Middle Hill
+116,Crafton Heights
+117,Homewood South
+118,Marshall-Shadeland
+119,South Side Flats
+120,Lower Lawrenceville
+121,Garfield
+122,Brookline
+123,Homewood North
+124,Sheraden
+125,Homewood South
+126,Brookline
+127,Lincoln Place
+128,Brookline
+129,Elliott
+130,Elliott
+131,Allegheny Center
+132,North Shore
+133,Carrick
+134,South Side Flats
+135,South Side Flats
+136,North Shore
+137,Golden Triangle/Civic Arena
+138,Point Breeze North
+139,Larimer
+140,Marshall-Shadeland
+141,Beechview
+142,Bedford Dwellings
+143,Westwood
+144,South Side Flats
+145,Brookline
+146,Fineview
+147,Northview Heights
+148,Mount Washington
+149,California-Kirkbride
+150,East Allegheny
+151,Central Oakland
+152,Golden Triangle/Civic Arena
+153,Bloomfield
+154,Banksville
+155,Bon Air
+156,North Shore
+157,Bluff
+158,Golden Triangle/Civic Arena
+159,Homewood North
+160,Glen Hazel
+161,Golden Triangle/Civic Arena
+162,South Shore
+163,Bedford Dwellings
+164,Hazelwood
+165,Crafton Heights
+166,Sheraden
+167,Upper Lawrenceville
+168,South Side Flats
+169,Allentown
+170,Homewood South
+171,Fineview
+172,Lincoln-Lemington-Belmar
+173,Highland Park
+174,South Side Slopes
+175,East Liberty
+176,Carrick
+177,Northview Heights
+178,Mount Washington
+179,Bloomfield
+180,South Side Flats
+181,Bon Air
+182,Central Oakland
+183,Beltzhoover
+184,Golden Triangle/Civic Arena
+185,Strip District
+186,Sheraden
+187,Knoxville
+188,North Shore
+189,Sheraden
+190,
+191,Carrick
+192,Bloomfield
+193,Squirrel Hill South
+194,Middle Hill
+195,Greenfield
+196,Elliott
+197,East Allegheny
+198,Bluff
+199,South Side Flats
+200,Lincoln-Lemington-Belmar
+201,East Allegheny
+202,South Side Flats
+203,Chateau
+204,Golden Triangle/Civic Arena
+205,East Liberty
+206,Homewood North
+207,Crawford-Roberts
+208,Polish Hill
+209,Elliott
+210,
+211,Carrick
+212,Bluff
+213,Fairywood
+214,Homewood North
+215,Golden Triangle/Civic Arena
+216,Knoxville
+217,South Side Flats
+218,South Side Flats
+219,South Side Flats
+220,Golden Triangle/Civic Arena
+221,Homewood South
+222,East Allegheny
+223,South Side Flats
+224,East Allegheny
+225,East Allegheny
+226,Fineview
+227,Fineview
+228,South Side Flats
+229,West End
+230,Golden Triangle/Civic Arena
+231,Golden Triangle/Civic Arena
+232,East Allegheny
+233,Crawford-Roberts
+234,Fineview
+235,Allegheny Center
+236,Shadyside
+237,Allegheny Center
+238,Allentown
+239,Allentown
+240,Carrick
+241,Bloomfield
+242,North Shore
+243,North Shore
+244,Sheraden
+245,Carrick
+246,Garfield
+247,Golden Triangle/Civic Arena
+248,West End
+249,Golden Triangle/Civic Arena
+250,Knoxville
+251,Golden Triangle/Civic Arena
+252,Sheraden
+253,Golden Triangle/Civic Arena
+254,Central Oakland
+255,Golden Triangle/Civic Arena
+256,Morningside
+257,Brookline
+258,Allegheny Center
+259,Sheraden
+260,Polish Hill
+261,Golden Triangle/Civic Arena
+262,Garfield
+263,Homewood South
+264,Beechview
+265,East Hills
+266,Elliott
+267,Perry South
+268,Brighton Heights
+269,Overbrook
+270,South Side Slopes
+271,Elliott
+272,Highland Park
+273,South Side Flats
+274,Carrick
+275,Golden Triangle/Civic Arena
+276,Troy Hill-Herrs Island
+277,East Liberty
+278,Friendship
+279,Brookline
+280,Allegheny Center
+281,East Allegheny
+282,South Side Flats
+283,Sheraden
+284,Outside City
+285,East Liberty
+286,Central Oakland
+287,Brighton Heights
+288,East Hills
+289,Golden Triangle/Civic Arena
+290,West End
+291,North Oakland
+292,Shadyside
+293,Northview Heights
+294,Marshall-Shadeland
+295,Allegheny Center
+296,Homewood South
+297,Elliott
+298,Outside City
+299,Crafton Heights
+300,Lincoln-Lemington-Belmar
+301,Golden Triangle/Civic Arena
+302,Brookline
+303,Middle Hill
+304,Crafton Heights
+305,South Side Flats
+306,East Liberty
+307,South Side Flats
+308,Central Lawrenceville
+309,Outside County
+310,Brookline
+311,Brookline
+312,Oakwood
+313,Central Northside
+314,Perry South
+315,Golden Triangle/Civic Arena
+316,Middle Hill
+317,South Side Flats
+318,Brighton Heights
+319,Homewood North
+320,Sheraden
+321,East Liberty
+322,Golden Triangle/Civic Arena
+323,Upper Hill
+324,Terrace Village
+325,Allegheny Center
+326,Troy Hill-Herrs Island
+327,
+328,Brighton Heights
+329,South Oakland
+330,Knoxville
+331,Knoxville
+332,Homewood West
+333,Homewood West
+334,West Oakland
+335,Beechview
+336,Terrace Village
+337,Allentown
+338,Sheraden
+339,Elliott
+340,East Allegheny
+341,Greenfield
+342,Central Northside
+343,South Side Slopes
+344,East Hills
+345,Point Breeze
+346,
+347,Bloomfield
+348,South Shore
+349,North Shore
+350,Fineview
+351,Manchester
+352,Marshall-Shadeland
+353,North Shore
+354,Crawford-Roberts
+355,Perry South
+356,Central Oakland
+357,South Side Flats
+358,Spring Garden
+359,East Hills
+360,Sheraden
+361,Larimer
+362,Brookline
+363,Carrick
+364,Perry South
+365,Squirrel Hill South
+366,Central Oakland
+367,Brookline
+368,Northview Heights
+369,Outside County
+370,Golden Triangle/Civic Arena
+371,Hazelwood
+372,Perry North
+373,Homewood North
+374,Garfield
+375,Lincoln-Lemington-Belmar
+376,Golden Triangle/Civic Arena
+377,Marshall-Shadeland
+378,Lincoln-Lemington-Belmar
+379,South Side Flats
+380,Fineview
+381,Glen Hazel
+382,Allentown
+383,Marshall-Shadeland
+384,Spring Hill-City View
+385,Brighton Heights
+386,Highland Park
+387,Allegheny West
+388,Knoxville
+389,
+390,South Side Slopes
+391,Beechview
+392,Greenfield
+393,
+394,Carrick
+395,Fineview
+396,Golden Triangle/Civic Arena
+397,Strip District
+398,Garfield
+399,East Hills
+400,Fineview
+401,Larimer
+402,Beltzhoover
+403,Friendship
+404,East Allegheny
+405,Golden Triangle/Civic Arena
+406,Central Northside
+407,Homewood West
+408,Fairywood
+409,East Allegheny
+410,East Hills
+411,Greenfield
+412,Bloomfield
+413,Mount Washington
+414,East Allegheny
+415,Golden Triangle/Civic Arena
+416,Allegheny Center
+417,Golden Triangle/Civic Arena
+418,South Side Flats
+419,East Allegheny
+420,Shadyside
+421,South Side Flats
+422,East Allegheny
+423,Homewood South
+424,Homewood North
+425,Westwood
+426,Central Lawrenceville
+427,East Hills
+428,Knoxville
+429,Homewood North
+430,Knoxville
+431,North Shore
+432,Bloomfield
+433,Elliott
+434,Golden Triangle/Civic Arena
+435,Golden Triangle/Civic Arena
+436,Carrick
+437,East Hills
+438,Golden Triangle/Civic Arena
+439,East Allegheny
+440,Central Northside
+441,Perry South
+442,Beechview
+443,Golden Triangle/Civic Arena
+444,Bon Air
+445,Homewood North
+446,Garfield
+447,Golden Triangle/Civic Arena
+448,West End
+449,North Shore
+450,Homewood South
+451,Westwood
+452,Greenfield
+453,Brighton Heights
+454,East Allegheny
+455,St. Clair
+456,Bloomfield
+457,Shadyside
+458,Lincoln-Lemington-Belmar
+459,Mount Washington
+460,Fineview
+461,Golden Triangle/Civic Arena
+462,Outside County
+463,Homewood West
+464,Homewood South
+465,South Side Flats
+466,Knoxville
+467,Hazelwood
+468,Golden Triangle/Civic Arena
+469,Knoxville
+470,Hazelwood
+471,Golden Triangle/Civic Arena
+472,Perry South
+473,Lincoln-Lemington-Belmar
+474,Sheraden
+475,Golden Triangle/Civic Arena
+476,Stanton Heights
+477,North Shore
+478,Middle Hill
+479,Homewood South
+480,Hazelwood
+481,South Side Slopes
+482,Squirrel Hill South
+483,Crafton Heights
+484,Golden Triangle/Civic Arena
+485,Homewood South
+486,South Side Flats
+487,East Hills
+488,Mount Washington
+489,
+490,Esplen
+491,East Liberty
+492,Golden Triangle/Civic Arena
+493,East Allegheny
+494,Carrick
+495,Central Northside
+496,Central Oakland
+497,Allentown
+498,Arlington
+499,Allegheny Center
+500,Shadyside
+501,Carrick
+502,South Side Slopes
+503,Sheraden
+504,Spring Hill-City View
+505,Beechview
+506,Homewood South
+507,Allegheny Center
+508,Brighton Heights
+509,Golden Triangle/Civic Arena
+510,East Allegheny
+511,Homewood South
+512,Morningside
+513,Carrick
+514,Golden Triangle/Civic Arena
+515,Esplen
+516,Shadyside
+517,Larimer
+518,
+519,Point Breeze North
+520,Fairywood
+521,West Oakland
+522,Homewood South
+523,Garfield
+524,Fairywood
+525,Bluff
+526,Golden Triangle/Civic Arena
+527,Northview Heights
+528,Homewood West
+529,Beechview
+530,Fineview
+531,Westwood
+532,Central Lawrenceville
+533,Banksville
+534,Shadyside
+535,East Liberty
+536,South Side Flats
+537,Carrick
+538,South Side Flats
+539,South Side Flats
+540,Squirrel Hill North
+541,Golden Triangle/Civic Arena
+542,South Side Flats
+543,Beechview
+544,Shadyside
+545,Bluff
+546,Knoxville
+547,Golden Triangle/Civic Arena
+548,Knoxville
+549,Highland Park
+550,Golden Triangle/Civic Arena
+551,Homewood South
+552,Knoxville
+553,Golden Triangle/Civic Arena
+554,East Allegheny
+555,Spring Garden
+556,Homewood North
+557,Bluff
+558,Central Northside
+559,Brookline
+560,South Side Flats
+561,Allegheny Center
+562,Spring Hill-City View
+563,Knoxville
+564,Homewood West
+565,Hazelwood
+566,Point Breeze North
+567,Homewood South
+568,Troy Hill-Herrs Island
+569,Carrick
+570,Beechview
+571,Shadyside
+572,Allentown
+573,South Side Flats
+574,Fineview
+575,Allegheny Center
+576,
+577,Golden Triangle/Civic Arena
+578,Overbrook
+579,North Shore
+580,North Shore
+581,
+582,Hazelwood
+583,Lincoln-Lemington-Belmar
+584,Knoxville
+585,Central Oakland
+586,Hazelwood
+587,Perry South
+588,South Oakland
+589,East Liberty
+590,East Liberty
+591,Brighton Heights
+592,Outside City
+593,Mount Washington
+594,East Liberty
+595,Allentown
+596,
+597,Larimer
+598,Bluff
+599,Arlington
+600,Upper Hill
+601,East Allegheny
+602,Beechview
+603,East Hills
+604,Golden Triangle/Civic Arena
+605,Elliott
+606,Homewood North
+607,Carrick
+608,East Hills
+609,Central Oakland
+610,
+611,Stanton Heights
+612,Bluff
+613,Elliott
+614,North Shore
+615,Central Northside
+616,East Allegheny
+617,East Allegheny
+618,Crawford-Roberts
+619,Homewood South
+620,South Side Flats
+621,Larimer
+622,Central Northside
+623,Central Northside
+624,Carrick
+625,Morningside
+626,Brookline
+627,Carrick
+628,Central Northside
+629,Allegheny Center
+630,South Side Flats
+631,East Allegheny
+632,Beechview
+633,Garfield
+634,Squirrel Hill South
+635,Knoxville
+636,Strip District
+637,Highland Park
+638,Allegheny Center
+639,Mt. Oliver Neighborhood
+640,East Allegheny
+641,West Oakland
+642,Central Northside
+643,Beechview
+644,Spring Hill-City View
+645,Central Oakland
+646,Larimer
+647,Mount Washington
+648,East Allegheny
+649,Perry South
+650,Perry South
+651,Knoxville
+652,West Oakland
+653,Homewood South
+654,Golden Triangle/Civic Arena
+655,South Side Slopes
+656,Point Breeze
+657,South Side Flats
+658,Arlington
+659,Northview Heights
+660,East Allegheny
+661,Outside City
+662,Allegheny Center
+663,Homewood North
+664,
+665,Homewood South
+666,Mount Washington
+667,Strip District
+668,South Oakland
+669,Larimer
+670,East Carnegie
+671,Spring Hill-City View
+672,Larimer
+673,South Oakland
+674,East Hills
+675,Central Northside
+676,Allentown
+677,Middle Hill
+678,Allegheny Center
+679,Knoxville
+680,Bluff
+681,East Allegheny
+682,Marshall-Shadeland
+683,Homewood North
+684,Brighton Heights
+685,Golden Triangle/Civic Arena
+686,Central Oakland
+687,Perry North
+688,Banksville
+689,Hazelwood
+690,Westwood
+691,East Allegheny
+692,Homewood North
+693,Golden Triangle/Civic Arena
+694,East Allegheny
+695,Beechview
+696,Spring Garden
+697,East Liberty
+698,Point Breeze North
+699,Allegheny Center
+700,East Hills
+701,Knoxville
+702,Allentown
+703,Terrace Village
+704,Mt. Oliver Neighborhood
+705,Hazelwood
+706,East Allegheny
+707,Allegheny Center
+708,Golden Triangle/Civic Arena
+709,East Hills
+710,Fineview
+711,Brookline
+712,North Oakland
+713,Sheraden
+714,Brookline
+715,Brookline
+716,Homewood North
+717,Fairywood
+718,South Side Slopes
+719,North Oakland
+720,Central Oakland
+721,Golden Triangle/Civic Arena
+722,Golden Triangle/Civic Arena
+723,Bloomfield
+724,Homewood South
+725,Homewood North
+726,Sheraden
+727,Homewood South
+728,Sheraden
+729,Sheraden
+730,Beltzhoover
+731,Hazelwood
+732,East Allegheny
+733,Golden Triangle/Civic Arena
+734,California-Kirkbride
+735,South Oakland
+736,Golden Triangle/Civic Arena
+737,Chateau
+738,Elliott
+739,South Side Flats
+740,Homewood South
+741,Crawford-Roberts
+742,Larimer
+743,Homewood West
+744,East Allegheny
+745,Summer Hill
+746,South Side Flats
+747,Outside City
+748,Garfield
+749,Perry South
+750,Homewood North
+751,Allegheny Center
+752,Point Breeze North
+753,Friendship
+754,Crawford-Roberts
+755,Lincoln-Lemington-Belmar
+756,Homewood North
+757,Brighton Heights
+758,East Allegheny
+759,East Allegheny
+760,Terrace Village
+761,Central Oakland
+762,Perry North
+763,Homewood West
+764,Marshall-Shadeland
+765,South Shore
+766,East Liberty
+767,Homewood West
+768,North Shore
+769,Mount Washington
+770,Homewood West
+771,Homewood South
+772,East Hills
+773,Homewood North
+774,Elliott
+775,Golden Triangle/Civic Arena
+776,South Side Flats
+777,Homewood North
+778,Fineview
+779,
+780,Mount Washington
+781,East Allegheny
+782,Beechview
+783,Bedford Dwellings
+784,Terrace Village
+785,Elliott
+786,Bloomfield
+787,Hazelwood
+788,Fineview
+789,Perry South
+790,Lincoln-Lemington-Belmar
+791,West Oakland
+792,East Allegheny
+793,North Shore
+794,Marshall-Shadeland
+795,South Side Slopes
+796,South Side Flats
+797,Northview Heights
+798,Terrace Village
+799,Allegheny Center
+800,Perry South
+801,Allentown
+802,Northview Heights
+803,Golden Triangle/Civic Arena
+804,Lincoln-Lemington-Belmar
+805,Sheraden
+806,East Liberty
+807,Beechview
+808,East Hills
+809,Spring Garden
+810,Sheraden
+811,Carrick
+812,Arlington
+813,Knoxville
+814,Golden Triangle/Civic Arena
+815,Allegheny Center
+816,Allegheny Center
+817,Sheraden
+818,Golden Triangle/Civic Arena
+819,Golden Triangle/Civic Arena
+820,East Hills
+821,Arlington
+822,North Oakland
+823,Crawford-Roberts
+824,Allegheny Center
+825,Highland Park
+826,Strip District
+827,Shadyside
+828,Elliott
+829,West End
+830,Homewood South
+831,Outside City
+832,Greenfield
+833,Golden Triangle/Civic Arena
+834,Knoxville
+835,Allegheny Center
+836,Bon Air
+837,Larimer
+838,Middle Hill
+839,Carrick
+840,Crawford-Roberts
+841,Crafton Heights
+842,Shadyside
+843,Outside County
+844,Spring Garden
+845,South Side Flats
+846,Brookline
+847,Fineview
+848,Golden Triangle/Civic Arena
+849,South Side Flats
+850,Carrick
+851,South Side Flats
+852,Garfield
+853,East Allegheny
+854,East Liberty
+855,Northview Heights
+856,Sheraden
+857,Homewood North
+858,Carrick
+859,East Hills
+860,Elliott
+861,Beltzhoover
+862,East Liberty
+863,East Liberty
+864,Perry South
+865,Perry North
+866,Perry North
+867,South Side Flats
+868,Golden Triangle/Civic Arena
+869,Beltzhoover
+870,Morningside
+871,Hazelwood
+872,Perry North
+873,Hazelwood
+874,Hazelwood
+875,Strip District
+876,Strip District
+877,South Side Flats
+878,Allegheny Center
+879,Mount Washington
+880,Central Lawrenceville
+881,Perry North
+882,Perry North
+883,Sheraden
+884,Brookline
+885,Brookline
+886,Homewood North
+887,Fineview
+888,Troy Hill-Herrs Island
+889,Squirrel Hill South
+890,South Side Flats
+891,
+892,Brighton Heights
+893,Hazelwood
+894,Homewood South
+895,Carrick
+896,Lincoln-Lemington-Belmar
+897,Middle Hill
+898,South Side Flats
+899,Beechview
+900,Regent Square
+901,Brookline
+902,Bloomfield
+903,Bloomfield
+904,Highland Park
+905,Carrick
+906,Golden Triangle/Civic Arena
+907,Spring Garden
+908,Golden Triangle/Civic Arena
+909,East Liberty
+910,Sheraden
+911,Bedford Dwellings
+912,Homewood West
+913,Lower Lawrenceville
+914,Lower Lawrenceville
+915,California-Kirkbride
+916,Homewood South
+917,Homewood South
+918,Homewood North
+919,
+920,Squirrel Hill South
+921,Bloomfield
+922,Hazelwood
+923,Carrick
+924,Mount Washington
+925,Mount Washington
+926,Mount Washington
+927,Mount Washington
+928,Lincoln-Lemington-Belmar
+929,West End
+930,Mount Washington
+931,Mount Washington
+932,Allentown
+933,Fineview
+934,South Side Flats
+935,Mount Washington
+936,Highland Park
+937,Chateau
+938,Chateau
+939,Chateau
+940,
+941,Hazelwood
+942,Hazelwood
+943,South Side Flats
+944,Morningside
+945,North Shore
+946,North Shore
+947,South Side Flats
+948,Allegheny Center
+949,Allegheny Center
+950,Chateau
+951,East Hills
+952,Middle Hill
+953,Crafton Heights
+954,Chateau
+955,Central Northside
+956,East Hills
+957,Chateau
+958,Highland Park
+959,East Allegheny
+960,East Allegheny
+961,Marshall-Shadeland
+962,Marshall-Shadeland
+963,Crafton Heights
+964,Crafton Heights
+965,Perry South
+966,Bedford Dwellings
+967,Friendship
+968,Bedford Dwellings
+969,Knoxville
+970,South Side Flats
+971,Hazelwood
+972,Golden Triangle/Civic Arena
+973,Bluff
+974,East Allegheny
+975,East Allegheny
+976,Homewood North
+977,East Hills
+978,Lincoln-Lemington-Belmar
+979,Brookline
+980,Golden Triangle/Civic Arena
+981,Golden Triangle/Civic Arena
+982,Chateau
+983,Perry South
+984,Brookline
+985,Marshall-Shadeland
+986,Greenfield
+987,Middle Hill
+988,Chateau
+989,Mount Washington
+990,Chateau
+991,South Side Flats
+992,Sheraden
+993,North Shore
+994,Spring Hill-City View
+995,Central Northside
+996,Esplen
+997,Beechview
+998,Beechview
+999,Brighton Heights
+1000,Central Northside
+1001,Highland Park
+1002,Beechview
+1003,Perry South
+1004,Central Oakland
+1005,Central Oakland
+1006,Central Oakland
+1007,Knoxville
+1008,South Side Flats
+1009,East Liberty
+1010,Bon Air
+1011,Fineview
+1012,Golden Triangle/Civic Arena
+1013,Marshall-Shadeland
+1014,Carrick
+1015,Larimer
+1016,Point Breeze North
+1017,Bloomfield
+1018,Crafton Heights
+1019,North Shore
+1020,Stanton Heights
+1021,Friendship
+1022,Allegheny West
+1023,North Shore
+1024,North Shore
+1025,Allegheny Center
+1026,Brookline
+1027,California-Kirkbride
+1028,South Side Flats
+1029,South Side Flats
+1030,Brookline
+1031,Brighton Heights
+1032,Brighton Heights
+1033,West End
+1034,Marshall-Shadeland
+1035,South Side Flats
+1036,Golden Triangle/Civic Arena
+1037,Homewood South
+1038,Brighton Heights
+1039,East Allegheny
+1040,South Side Slopes
+1041,South Side Slopes
+1042,
+1043,Central Northside
+1044,Perry South
+1045,Bloomfield
+1046,Bloomfield
+1047,Bloomfield
+1048,Fineview
+1049,Fineview
+1050,Garfield
+1051,South Side Slopes
+1052,Manchester
+1053,Manchester
+1054,South Side Flats
+1055,Brighton Heights
+1056,Brighton Heights
+1057,Allegheny Center
+1058,
+1059,East Allegheny
+1060,Carrick
+1061,East Allegheny
+1062,Central Northside
+1063,Fineview
+1064,Fineview
+1065,Shadyside
+1066,South Shore
+1067,Bluff
+1068,Hazelwood
+1069,Arlington
+1070,
+1071,East Hills
+1072,Brighton Heights
+1073,Banksville
+1074,Carrick
+1075,Morningside
+1076,Golden Triangle/Civic Arena
+1077,North Shore
+1078,Banksville
+1079,Allegheny Center
+1080,Allegheny Center
+1081,Beechview
+1082,Brookline
+1083,Allegheny Center
+1084,Sheraden
+1085,Carrick
+1086,Shadyside
+1087,Perry South
+1088,North Shore
+1089,Outside County
+1090,Golden Triangle/Civic Arena
+1091,Morningside
+1092,Highland Park
+1093,North Shore
+1094,
+1095,Sheraden
+1096,East Allegheny
+1097,Upper Hill
+1098,Point Breeze North
+1099,Carrick
+1100,Hazelwood
+1101,Terrace Village
+1102,East Liberty
+1103,Allentown
+1104,Lincoln-Lemington-Belmar
+1105,Allegheny Center
+1106,
+1107,Brighton Heights
+1108,Allegheny Center
+1109,North Shore
+1110,Beechview
+1111,Banksville
+1112,Central Northside
+1113,Hazelwood
+1114,Lincoln-Lemington-Belmar
+1115,Perry South
+1116,Allentown
+1117,Beechview
+1118,Beechview
+1119,Northview Heights
+1120,Beechview
+1121,East Allegheny
+1122,Golden Triangle/Civic Arena
+1123,Overbrook
+1124,West Oakland
+1125,Bloomfield
+1126,Central Oakland
+1127,Allentown
+1128,Banksville
+1129,Elliott
+1130,East Liberty
+1131,Knoxville
+1132,East Liberty
+1133,Allegheny Center
+1134,Stanton Heights
+1135,Sheraden
+1136,South Side Flats
+1137,Outside City
+1138,Outside City
+1139,Outside City
+1140,Shadyside
+1141,East Liberty
+1142,South Side Flats
+1143,South Side Flats
+1144,South Side Flats
+1145,Marshall-Shadeland
+1146,Crafton Heights
+1147,Troy Hill-Herrs Island
+1148,Chateau
+1149,South Side Flats
+1150,Homewood South
+1151,Homewood South
+1152,Beltzhoover
+1153,Lincoln-Lemington-Belmar
+1154,Northview Heights
+1155,Homewood South
+1156,Arlington Heights
+1157,Marshall-Shadeland
+1158,Crawford-Roberts
+1159,Greenfield
+1160,Golden Triangle/Civic Arena
+1161,South Oakland
+1162,Spring Hill-City View
+1163,Allentown
+1164,Allentown
+1165,Allentown
+1166,South Oakland
+1167,Beechview
+1168,Central Northside
+1169,Brookline
+1170,South Side Flats
+1171,Lincoln-Lemington-Belmar
+1172,Carrick
+1173,Larimer
+1174,Overbrook
+1175,Overbrook
+1176,Homewood North
+1177,Golden Triangle/Civic Arena
+1178,Perry South
+1179,Golden Triangle/Civic Arena
+1180,Perry South
+1181,South Side Slopes
+1182,Golden Triangle/Civic Arena
+1183,Fineview
+1184,Fineview
+1185,Greenfield
+1186,Shadyside
+1187,Perry South
+1188,Homewood South
+1189,Elliott
+1190,East Liberty
+1191,Overbrook
+1192,Central Northside
+1193,Allentown
+1194,Allentown
+1195,Manchester
+1196,East Liberty
+1197,East Hills
+1198,Brighton Heights
+1199,Fineview
+1200,
+1201,
+1202,East Hills
+1203,Esplen
+1204,South Side Flats
+1205,Mount Washington
+1206,Mount Washington
+1207,Northview Heights
+1208,Golden Triangle/Civic Arena
+1209,Northview Heights
+1210,Central Lawrenceville
+1211,South Side Flats
+1212,South Shore
+1213,South Side Flats
+1214,Highland Park
+1215,
+1216,Brookline
+1217,Perry South
+1218,South Side Flats
+1219,South Side Flats
+1220,South Side Flats
+1221,Outside County
+1222,Lincoln-Lemington-Belmar
+1223,Knoxville
+1224,Bloomfield
+1225,South Side Flats
+1226,South Side Flats
+1227,Troy Hill
+1228,Outside City
+1229,Marshall-Shadeland
+1230,East Liberty
+1231,Crafton Heights
+1232,East Allegheny
+1233,Knoxville
+1234,Knoxville
+1235,Sheraden
+1236,Lincoln-Lemington-Belmar
+1237,East Allegheny
+1238,East Allegheny
+1239,Brighton Heights
+1240,East Liberty
+1241,Troy Hill
+1242,Troy Hill
+1243,Upper Hill
+1244,South Side Flats
+1245,Allentown
+1246,Allentown
+1247,Allentown
+1248,South Side Flats
+1249,Greenfield
+1250,Central Business District
+1251,Central Business District
+1252,South Side Flats
+1253,Squirrel Hill South
+1254,Squirrel Hill South
+1255,
+1256,Lincoln Place
+1257,Brighton Heights
+1258,Sheraden
+1259,North Shore
+1260,Crawford-Roberts
+1261,Northview Heights
+1262,Shadyside
+1263,Beltzhoover
+1264,Hazelwood
+1265,Shadyside
+1266,Homewood South
+1267,Point Breeze
+1268,Central North Side
+1269,Brookline
+1270,Mount Oliver
+1271,Mount Oliver
+1272,Carrick
+1273,Carrick
+1274,Carrick
+1275,East Liberty
+1276,Perry South
+1277,Sheraden
+1278,Knoxville
+1279,East Liberty
+1280,Crafton Heights
+1281,East Allegheny
+1282,East Allegheny
+1283,East Allegheny
+1284,East Allegheny
+1285,Lincoln Place
+1286,Hazelwood
+1287,South Side Flats
+1288,South Side Slopes
+1289,Elliott
+1290,Central Lawrenceville
+1291,Central Lawrenceville
+1292,Glen Hazel
+1293,Central Business District
+1294,Central North Side
+1295,Central Business District
+1296,Central Business District
+1297,Carrick
+1298,Central North Side
+1299,Allegheny Center
+1300,South Side Flats
+1301,South Side Flats
+1302,Allegheny Center
+1303,Homewood North
+1304,Homewood North
+1305,Central Business District
+1306,Lincoln-Lemington-Belmar
+1307,North Shore
+1308,North Shore
+1309,Hazelwood
+1310,Spring Hill-City View
+1311,Knoxville
+1312,South Side Slopes
+1313,Middle Hill
+1314,Beltzhoover
+1315,Knoxville
+1316,Perry North
+1317,Central North Side
+1318,Windgap
+1319,Brighton Heights
+1320,Banksville
+1321,Banksville
+1322,Knoxville
+1323,Friendship
+1324,Bluff
+1325,Allegheny Center
+1326,Point Breeze North
+1327,North Shore
+1328,Strip District
+1329,East Carnegie
+1330,East Liberty
+1331,Spring Hill-City View
+1332,Bluff
+1333,South Side Flats
+1334,Central Oakland
+1335,Middle Hill
+1336,Carrick
+1337,Elliott
+1338,Northview Heights
+1339,Homewood South
+1340,
+1341,North Shore
+1342,Homewood South
+1343,Brookline
+1344,South Side Flats
+1345,Manchester
+1346,Brookline
+1347,Brookline
+1348,
+1349,
+1350,Central Business District
+1351,North Oakland
+1352,Strip District
+1353,Squirrel Hill South
+1354,Squirrel Hill South
+1355,Mount Washington
+1356,Knoxville
+1357,Chateau
+1358,
+1359,
+1360,Arlington
+1361,Spring Hill-City View
+1362,Crawford-Roberts
+1363,South Side Flats
+1364,Middle Hill
+1365,Carrick
+1366,Allegheny Center
+1367,Sheraden
+1368,Stanton Heights
+1369,North Shore
+1370,Crawford-Roberts
+1371,Spring Hill-City View
+1372,Central Business District
+1373,Troy Hill
+1374,Hazelwood
+1375,Central North Side
+1376,Central Business District
+1377,Allentown
+1378,Central Business District
+1379,Allentown
+1380,Beltzhoover
+1381,Homewood South
+1382,East Carnegie
+1383,East Carnegie
+1384,East Carnegie
+1385,South Side Flats
+1386,Shadyside
+1387,Central North Side
+1388,Carrick
+1389,Carrick
+1390,Carrick
+1391,Arlington Heights
+1392,Central Business District
+1393,Spring Garden
+1394,Central Oakland
+1395,Central Oakland
+1396,Central Oakland
+1397,Central Oakland
+1398,Mount Washington
+1399,Mount Washington
+1400,Mount Washington
+1401,Central Business District
+1402,Brookline
+1403,Brookline
+1404,Central Business District
+1405,Greenfield
+1406,Point Breeze North
+1407,Fairywood
+1408,Fairywood
+1409,South Oakland
+1410,Hazelwood
+1411,Westwood
+1412,Bloomfield
+1413,Crawford-Roberts
+1414,Squirrel Hill North
+1415,South Side Flats
+1416,Carrick
+1417,Shadyside
+1418,Troy Hill
+1419,Homewood South
+1420,
+1421,East Allegheny
+1422,Central North Side
+1423,Crawford-Roberts
+1424,Central Business District
+1425,South Side Flats
+1426,Central Business District
+1427,East Hills
+1428,Hazelwood
+1429,Fineview
+1430,Lincoln-Lemington-Belmar
+1431,
+1432,
+1433,Lower Lawrenceville
+1434,Troy Hill
+1435,Fineview
+1436,Bedford Dwellings
+1437,Arlington
+1438,North Shore
+1439,East Liberty
+1440,Central Business District
+1441,Hazelwood
+1442,Brookline
+1443,Beechview
+1444,Central Business District
+1445,Homewood North
+1446,Sheraden
+1447,
+1448,South Side Flats
+1449,Troy Hill
+1450,South Side Slopes
+1451,Crawford-Roberts
+1452,Central Business District
+1453,Brookline
+1454,Brookline
+1455,Hazelwood
+1456,North Oakland
+1457,Hazelwood
+1458,Lincoln Place
+1459,Carrick
+1460,Lincoln-Lemington-Belmar
+1461,Carrick
+1462,Upper Hill
+1463,Homewood West
+1464,Middle Hill
+1465,Central Lawrenceville
+1466,Esplen
+1467,Hazelwood
+1468,East Liberty
+1469,Allegheny Center
+1470,Spring Garden
+1471,Mount Washington
+1472,Central North Side
+1473,Central North Side
+1474,Central Lawrenceville
+1475,Greenfield
+1476,Lincoln-Lemington-Belmar
+1477,East Allegheny
+1478,Arlington Heights
+1479,East Liberty
+1480,Brookline
+1481,
+1482,East Allegheny
+1483,Central Business District
+1484,Lincoln Place
+1485,South Side Flats
+1486,South Side Flats
+1487,Central Business District
+1488,Middle Hill
+1489,South Side Flats
+1490,Fairywood
+1491,South Side Flats
+1492,Central Business District
+1493,Greenfield
+1494,Marshall-Shadeland
+1495,Knoxville
+1496,Hazelwood
+1497,South Side Flats
+1498,Central Business District
+1499,Shadyside
+1500,East Allegheny
+1501,Manchester
+1502,Marshall-Shadeland
+1503,Marshall-Shadeland
+1504,Marshall-Shadeland
+1505,Central Business District
+1506,Marshall-Shadeland
+1507,
+1508,Central North Side
+1509,Fineview
+1510,Troy Hill
+1511,Lincoln-Lemington-Belmar
+1512,Middle Hill
+1513,Perry South
+1514,Knoxville
+1515,Beechview
+1516,Carrick
+1517,Perry North
+1518,Perry North
+1519,Homewood West
+1520,Perry South
+1521,Carrick
+1522,Greenfield
+1523,Homewood West
+1524,Brighton Heights
+1525,Homewood North
+1526,Mount Oliver
+1527,Homewood West
+1528,Allentown
+1529,Allentown
+1530,South Side Flats
+1531,South Side Flats
+1532,South Side Flats
+1533,South Side Flats
+1534,South Side Flats
+1535,
+1536,Strip District
+1537,Bedford Dwellings
+1538,East Allegheny
+1539,East Liberty
+1540,Homewood West
+1541,East Hills
+1542,Central Business District
+1543,Central Oakland
+1544,Central Oakland
+1545,Terrace Village
+1546,Terrace Village
+1547,Central North Side
+1548,Terrace Village
+1549,South Side Flats
+1550,North Shore
+1551,Marshall-Shadeland
+1552,Elliott
+1553,Lincoln-Lemington-Belmar
+1554,Central Business District
+1555,Troy Hill
+1556,Bedford Dwellings
+1557,California-Kirkbride
+1558,Bloomfield
+1559,East Liberty
+1560,Troy Hill
+1561,Lincoln-Lemington-Belmar
+1562,Central Business District
+1563,Outside State
+1564,East Liberty
+1565,Point Breeze
+1566,East Liberty
+1567,Fineview
+1568,Sheraden
+1569,Manchester
+1570,Sheraden
+1571,Sheraden
+1572,Windgap
+1573,Middle Hill
+1574,Allentown
+1575,Fairywood
+1576,South Side Flats
+1577,East Hills
+1578,Brookline
+1579,South Side Flats
+1580,Lincoln-Lemington-Belmar
+1581,Lincoln-Lemington-Belmar
+1582,Elliott
+1583,Friendship
+1584,South Side Flats
+1585,Squirrel Hill South
+1586,
+1587,Brighton Heights
+1588,Allegheny Center
+1589,
+1590,East Allegheny
+1591,Fineview
+1592,Carrick
+1593,California-Kirkbride
+1594,Allegheny Center
+1595,Garfield
+1596,South Oakland
+1597,Knoxville
+1598,Bluff
+1599,Lincoln-Lemington-Belmar
+1600,Carrick
+1601,Garfield
+1602,South Side Flats
+1603,Central Oakland
+1604,South Side Slopes
+1605,Central North Side
+1606,Mount Washington
+1607,North Oakland
+1608,Sheraden
+1609,Highland Park
+1610,Troy Hill
+1611,Perry South
+1612,Friendship
+1613,East Allegheny
+1614,Central Business District
+1615,North Oakland
+1616,South Side Slopes
+1617,East Hills
+1618,Beechview
+1619,Sheraden
+1620,
+1621,East Allegheny
+1622,Greenfield
+1623,Crawford-Roberts
+1624,Knoxville
+1625,South Side Flats
+1626,North Shore
+1627,Homewood North
+1628,Central North Side
+1629,Crawford-Roberts
+1630,East Liberty
+1631,Allentown
+1632,East Liberty
+1633,Homewood North
+1634,Middle Hill
+1635,Perry South
+1636,
+1637,Terrace Village
+1638,Summer Hill
+1639,Marshall-Shadeland
+1640,Brookline
+1641,Upper Lawrenceville
+1642,Marshall-Shadeland
+1643,Allegheny Center
+1644,Banksville
+1645,Strip District
+1646,East Allegheny
+1647,Oakwood
+1648,Central North Side
+1649,Central North Side
+1650,Allegheny Center
+1651,South Side Flats
+1652,Sheraden
+1653,Chateau
+1654,Perry North
+1655,Greenfield
+1656,Greenfield
+1657,Hazelwood
+1658,
+1659,
+1660,Homewood South
+1661,Spring Garden
+1662,Fineview
+1663,Terrace Village
+1664,Marshall-Shadeland
+1665,Carrick
+1666,Carrick
+1667,East Allegheny
+1668,West Oakland
+1669,Northview Heights
+1670,Lower Lawrenceville
+1671,Lower Lawrenceville
+1672,North Shore
+1673,North Shore
+1674,North Shore
+1675,Chateau
+1676,Highland Park
+1677,Bloomfield
+1678,East Allegheny
+1679,South Side Flats
+1680,Sheraden
+1681,Central North Side
+1682,Chateau
+1683,Terrace Village
+1684,Larimer
+1685,
+1686,South Side Flats
+1687,Brighton Heights
+1688,Shadyside
+1689,Bluff
+1690,South Side Flats
+1691,Homewood West
+1692,Middle Hill
+1693,Fineview
+1694,Beechview
+1695,Arlington Heights
+1696,Arlington Heights
+1697,Arlington Heights
+1698,Arlington Heights
+1699,Allegheny Center
+1700,Mount Oliver
+1701,Allegheny Center
+1702,Allegheny Center
+1703,Knoxville
+1704,Knoxville
+1705,Central Business District
+1706,Homewood North
+1707,Manchester
+1708,Manchester
+1709,Manchester
+1710,North Shore
+1711,Greenfield
+1712,Squirrel Hill South
+1713,Homewood West
+1714,Highland Park
+1715,Homewood West
+1716,Manchester
+1717,South Side Slopes
+1718,South Side Slopes
+1719,Central North Side
+1720,East Hills
+1721,Chateau
+1722,Central Oakland
+1723,Fineview
+1724,Perry South
+1725,Central Business District
+1726,Homewood North
+1727,Fineview
+1728,Larimer
+1729,Beechview
+1730,South Side Flats
+1731,Brighton Heights
+1732,South Side Flats
+1733,Beltzhoover
+1734,Bluff
+1735,Knoxville
+1736,Sheraden
+1737,South Side Slopes
+1738,Mount Washington
+1739,Crafton Heights
+1740,Larimer
+1741,North Oakland
+1742,Knoxville
+1743,South Side Slopes
+1744,Bluff
+1745,Lincoln-Lemington-Belmar
+1746,Central Business District
+1747,Point Breeze
+1748,Brighton Heights
+1749,Marshall-Shadeland
+1750,East Liberty
+1751,Fineview
+1752,Outside County
+1753,Larimer
+1754,Central Business District
+1755,East Allegheny
+1756,Bloomfield
+1757,Bon Air
+1758,Bloomfield
+1759,Mount Washington
+1760,South Side Flats
+1761,Shadyside
+1762,Shadyside
+1763,West Oakland
+1764,Allentown
+1765,Upper Lawrenceville
+1766,West Oakland
+1767,East Allegheny
+1768,Fineview
+1769,Carrick
+1770,Fineview
+1771,Fineview
+1772,Greenfield
+1773,Central Lawrenceville
+1774,Homewood North
+1775,South Side Flats
+1776,Troy Hill
+1777,Upper Lawrenceville
+1778,Spring Garden
+1779,Shadyside
+1780,Arlington
+1781,East Allegheny
+1782,Allegheny Center
+1783,Central Business District
+1784,Marshall-Shadeland
+1785,Central Business District
+1786,West End
+1787,Central Business District
+1788,Marshall-Shadeland
+1789,Mount Washington
+1790,Highland Park
+1791,Highland Park
+1792,Middle Hill
+1793,Esplen
+1794,Sheraden
+1795,East Liberty
+1796,Bluff
+1797,Carrick
+1798,Homewood South
+1799,Greenfield
+1800,Bloomfield
+1801,Bloomfield
+1802,Homewood South
+1803,Homewood North
+1804,Shadyside
+1805,
+1806,Central Business District
+1807,East Allegheny
+1808,Homewood South
+1809,South Side Flats
+1810,Upper Hill
+1811,Chateau
+1812,Perry North
+1813,Brighton Heights
+1814,Mount Washington
+1815,Arlington
+1816,Allentown
+1817,Allentown
+1818,North Shore
+1819,Lower Lawrenceville
+1820,Shadyside
+1821,South Side Flats
+1822,
+1823,South Side Flats
+1824,Hazelwood
+1825,Hazelwood
+1826,Garfield
+1827,Garfield
+1828,Brookline
+1829,Brighton Heights
+1830,Brighton Heights
+1831,North Oakland
+1832,Spring Hill-City View
+1833,Bedford Dwellings
+1834,Central Business District
+1835,Knoxville
+1836,East Allegheny
+1837,Carrick
+1838,Manchester
+1839,Carrick
+1840,Central North Side
+1841,Chateau
+1842,West End
+1843,Brookline
+1844,Duquesne Heights
+1845,East Liberty
+1846,East Allegheny
+1847,South Side Flats
+1848,Brookline
+1849,Brookline
+1850,Manchester
+1851,
+1852,South Side Slopes
+1853,Arlington Heights
+1854,Arlington Heights
+1855,Bloomfield
+1856,Bloomfield
+1857,Bloomfield
+1858,Carrick
+1859,Garfield
+1860,Garfield
+1861,Regent Square
+1862,Brighton Heights
+1863,
+1864,Westwood
+1865,
+1866,East Liberty
+1867,Homewood West
+1868,Highland Park
+1869,Allegheny Center
+1870,East Allegheny
+1871,Allegheny Center
+1872,Overbrook
+1873,Middle Hill
+1874,Homewood West
+1875,Brookline
+1876,Brookline
+1877,Allegheny West
+1878,East Hills
+1879,Troy Hill
+1880,Northview Heights
+1881,Morningside
+1882,Bloomfield
+1883,Spring Hill-City View
+1884,East Allegheny
+1885,Sheraden
+1886,South Side Flats
+1887,Mount Washington
+1888,Strip District
+1889,Brighton Heights
+1890,Homewood North
+1891,Homewood West
+1892,South Side Flats
+1893,Chateau
+1894,East Allegheny
+1895,Brighton Heights
+1896,East Allegheny
+1897,Allegheny West
+1898,Lincoln-Lemington-Belmar
+1899,East Liberty
+1900,Elliott
+1901,East Liberty
+1902,Fineview
+1903,South Side Slopes
+1904,East Hills
+1905,East Hills
+1906,Highland Park
+1907,Lincoln-Lemington-Belmar
+1908,Elliott
+1909,
+1910,Sheraden
+1911,Lincoln-Lemington-Belmar
+1912,Garfield
+1913,South Side Slopes
+1914,Knoxville
+1915,Fineview
+1916,Fineview
+1917,Fineview
+1918,Bloomfield
+1919,Bloomfield
+1920,Hazelwood
+1921,Hazelwood
+1922,Homewood West
+1923,Lower Lawrenceville
+1924,Central Business District
+1925,Mount Washington
+1926,Elliott
+1927,Bon Air
+1928,East Allegheny
+1929,New Homestead
+1930,Central North Side
+1931,Sheraden
+1932,Homewood North
+1933,Marshall-Shadeland
+1934,South Side Flats
+1935,Bon Air
+1936,Bloomfield
+1937,Fineview
+1938,Fineview
+1939,Fineview
+1940,Troy Hill
+1941,Central Business District
+1942,West End
+1943,Crawford-Roberts
+1944,
+1945,Marshall-Shadeland
+1946,Sheraden
+1947,Sheraden
+1948,Hazelwood
+1949,South Shore
+1950,Homewood West
+1951,East Allegheny
+1952,Brighton Heights
+1953,Carrick
+1954,Fineview
+1955,Homewood West
+1956,Central Business District
+1957,Marshall-Shadeland
+1958,Squirrel Hill South
+1959,Troy Hill
+1960,East Liberty
+1961,Strip District
+1962,North Shore
+1963,Central North Side
+1964,Bloomfield
+1965,East Allegheny
+1966,East Hills
+1967,Perry North
+1968,Perry North
+1969,Northview Heights
+1970,Perry South
+1971,East Liberty
+1972,Beltzhoover
+1973,Marshall-Shadeland
+1974,Squirrel Hill South
+1975,
+1976,Allegheny Center
+1977,
+1978,Carrick
+1979,Lincoln-Lemington-Belmar
+1980,
+1981,Bloomfield
+1982,Terrace Village
+1983,Terrace Village
+1984,Marshall-Shadeland
+1985,Squirrel Hill South
+1986,South Side Slopes
+1987,Bloomfield
+1988,Central North Side
+1989,Marshall-Shadeland
+1990,North Shore
+1991,Bluff
+1992,Central Business District
+1993,Central Business District
+1994,Carrick
+1995,Sheraden
+1996,East Allegheny
+1997,Central North Side
+1998,Middle Hill
+1999,East Allegheny
+2000,East Allegheny
+2001,Arlington
+2002,Arlington
+2003,Beechview
+2004,Bloomfield
+2005,East Allegheny
+2006,East Hills
+2007,Lower Lawrenceville
+2008,South Side Flats
+2009,East Liberty
+2010,Outside County
+2011,Shadyside
+2012,Central Oakland
+2013,Bloomfield
+2014,Central North Side
+2015,East Allegheny
+2016,East Liberty
+2017,Regent Square
+2018,Lower Lawrenceville
+2019,East Liberty
+2020,Bloomfield
+2021,Homewood South
+2022,Perry South
+2023,East Allegheny
+2024,East Liberty
+2025,Homewood North
+2026,South Side Flats
+2027,Brighton Heights
+2028,Shadyside
+2029,Knoxville
+2030,Crafton Heights
+2031,East Hills
+2032,Spring Hill-City View
+2033,East Liberty
+2034,Central Business District
+2035,East Allegheny
+2036,Glen Hazel
+2037,Brighton Heights
+2038,Brighton Heights
+2039,Hazelwood
+2040,East Allegheny
+2041,Elliott
+2042,Central Business District
+2043,Brookline
+2044,Crawford-Roberts
+2045,Marshall-Shadeland
+2046,
+2047,Larimer
+2048,East Liberty
+2049,
+2050,Perry South
+2051,
+2052,East Liberty
+2053,Northview Heights
+2054,Larimer
+2055,Marshall-Shadeland
+2056,Brighton Heights
+2057,Brighton Heights
+2058,Squirrel Hill South
+2059,Upper Hill
+2060,
+2061,Knoxville
+2062,Mount Oliver
+2063,Mount Oliver
+2064,Homewood North
+2065,Allegheny Center
+2066,South Side Flats
+2067,Mount Oliver
+2068,Perry North
+2069,East Liberty
+2070,Mount Washington
+2071,
+2072,Sheraden
+2073,Stanton Heights
+2074,South Side Flats
+2075,Middle Hill
+2076,Middle Hill
+2077,Knoxville
+2078,South Side Flats
+2079,Central Business District
+2080,Perry South
+2081,Perry South
+2082,Ridgemont
+2083,
+2084,South Side Flats
+2085,Shadyside
+2086,Spring Hill-City View
+2087,
+2088,Marshall-Shadeland
+2089,Elliott
+2090,East Liberty
+2091,Central Business District
+2092,Central Business District
+2093,Westwood
+2094,Crafton Heights
+2095,Bedford Dwellings
+2096,Beechview
+2097,Crafton Heights
+2098,Crafton Heights
+2099,Upper Hill
+2100,Upper Hill
+2101,Perry North
+2102,Homewood North
+2103,East Hills
+2104,Knoxville
+2105,Crawford-Roberts
+2106,Elliott
+2107,Central Lawrenceville
+2108,Lincoln-Lemington-Belmar
+2109,Central Lawrenceville
+2110,
+2111,Westwood
+2112,Bluff
+2113,Lower Lawrenceville
+2114,Lower Lawrenceville
+2115,South Side Flats
+2116,Westwood
+2117,Greenfield
+2118,Bloomfield
+2119,Middle Hill
+2120,West Oakland
+2121,Chateau
+2122,Brighton Heights
+2123,Arlington Heights
+2124,East Hills
+2125,Beechview
+2126,Homewood North
+2127,Allegheny Center
+2128,South Side Flats
+2129,Central Business District
+2130,Highland Park
+2131,East Allegheny
+2132,Overbrook
+2133,East Liberty
+2134,Marshall-Shadeland
+2135,Outside City
+2136,Central Business District
+2137,Central Business District
+2138,South Side Flats
+2139,Central Business District
+2140,Chateau
+2141,Chateau
+2142,Crafton Heights
+2143,Sheraden
+2144,Stanton Heights
+2145,Mount Washington
+2146,Central Business District
+2147,Brighton Heights
+2148,Brookline
+2149,Knoxville
+2150,Elliott
+2151,Banksville
+2152,Bedford Dwellings
+2153,Carrick
+2154,Manchester
+2155,Lincoln-Lemington-Belmar
+2156,Squirrel Hill North
+2157,Lower Lawrenceville
+2158,Brighton Heights
+2159,Arlington Heights
+2160,South Side Slopes
+2161,Highland Park
+2162,Bloomfield
+2163,Squirrel Hill South
+2164,Garfield
+2165,Strip District
+2166,Bluff
+2167,South Side Flats
+2168,Strip District
+2169,Strip District
+2170,Carrick
+2171,Bluff
+2172,Bloomfield
+2173,Bon Air
+2174,East Allegheny
+2175,Bedford Dwellings
+2176,Banksville
+2177,Banksville
+2178,East Liberty
+2179,East Liberty
+2180,Carrick
+2181,
+2182,Upper Lawrenceville
+2183,Manchester
+2184,Strip District
+2185,Central Business District
+2186,Lincoln-Lemington-Belmar
+2187,Homewood North
+2188,Allegheny Center
+2189,Allentown
+2190,Lincoln-Lemington-Belmar
+2191,Greenfield
+2192,Greenfield
+2193,Hazelwood
+2194,Fineview
+2195,Garfield
+2196,Bedford Dwellings
+2197,North Shore
+2198,South Side Flats
+2199,Knoxville
+2200,Knoxville
+2201,Knoxville
+2202,Lincoln-Lemington-Belmar
+2203,Lincoln-Lemington-Belmar
+2204,South Side Flats
+2205,South Side Flats
+2206,East Allegheny
+2207,Allegheny Center
+2208,Highland Park
+2209,Homewood North
+2210,Chateau
+2211,South Side Flats
+2212,Troy Hill
+2213,Perry South
+2214,Central North Side
+2215,Outside City
+2216,Outside City
+2217,Bloomfield
+2218,Homewood North
+2219,Homewood North
+2220,Stanton Heights
+2221,West Oakland
+2222,South Side Flats
+2223,South Side Slopes
+2224,Highland Park
+2225,East Liberty
+2226,South Side Flats
+2227,Central Business District
+2228,South Side Flats
+2229,Allentown
+2230,Central North Side
+2231,Larimer
+2232,Allegheny Center
+2233,South Shore
+2234,Brighton Heights
+2235,Bloomfield
+2236,Bloomfield
+2237,Bloomfield
+2238,Knoxville
+2239,Knoxville
+2240,East Allegheny
+2241,Carrick
+2242,North Shore
+2243,Chateau
+2244,Carrick
+2245,Carrick
+2246,North Shore
+2247,Crafton Heights
+2248,Homewood South
+2249,East Hills
+2250,East Hills
+2251,Allentown
+2252,Troy Hill
+2253,Lower Lawrenceville
+2254,Fineview
+2255,North Shore
+2256,South Side Flats
+2257,South Side Flats
+2258,Central Business District
+2259,South Side Flats
+2260,Squirrel Hill South
+2261,Greenfield
+2262,Brighton Heights
+2263,Beechview
+2264,Middle Hill
+2265,Middle Hill
+2266,East Liberty
+2267,Lincoln Place
+2268,Lincoln-Lemington-Belmar
+2269,Garfield
+2270,Fineview
+2271,Fineview
+2272,Allentown
+2273,Central North Side
+2274,Hazelwood
+2275,Hazelwood
+2276,South Side Slopes
+2277,South Side Slopes
+2278,Marshall-Shadeland
+2279,Marshall-Shadeland
+2280,Central Business District
+2281,Central Business District
+2282,South Side Flats
+2283,Glen Hazel
+2284,Central Business District
+2285,Larimer
+2286,Larimer
+2287,Garfield
+2288,Bedford Dwellings
+2289,Central Business District
+2290,Manchester
+2291,Garfield
+2292,Highland Park
+2293,Brookline
+2294,Elliott
+2295,Lincoln-Lemington-Belmar
+2296,
+2297,Central Business District
+2298,Brighton Heights
+2299,Shadyside
+2300,Homewood South
+2301,Middle Hill
+2302,Sheraden
+2303,Crawford-Roberts
+2304,Central Business District
+2305,Westwood
+2306,Sheraden
+2307,Homewood North
+2308,Central Oakland
+2309,Central Business District
+2310,Central Business District
+2311,Bloomfield
+2312,Allentown
+2313,Highland Park
+2314,
+2315,Carrick
+2316,Point Breeze
+2317,Beechview
+2318,Central Business District
+2319,Central Business District
+2320,Central Business District
+2321,West Oakland
+2322,Greenfield
+2323,North Shore
+2324,Beltzhoover
+2325,Beltzhoover
+2326,Central Business District
+2327,Sheraden
+2328,Lincoln-Lemington-Belmar
+2329,
+2330,Central Business District
+2331,Middle Hill
+2332,Hazelwood
+2333,Swisshelm Park
+2334,North Shore
+2335,West End
+2336,North Shore
+2337,North Shore
+2338,North Shore
+2339,Polish Hill
+2340,Central North Side
+2341,East Allegheny
+2342,Hazelwood
+2343,Central Business District
+2344,Knoxville
+2345,East Liberty
+2346,Central Oakland
+2347,Central Oakland
+2348,Central Oakland
+2349,Greenfield
+2350,Bedford Dwellings
+2351,Perry North
+2352,Hazelwood
+2353,Hazelwood
+2354,Central North Side
+2355,South Side Flats
+2356,Central North Side
+2357,Strip District
+2358,Chateau
+2359,Central Business District
+2360,Central Business District
+2361,
+2362,Allentown
+2363,
+2364,Knoxville
+2365,Central Business District
+2366,Outside City
+2367,East Liberty
+2368,Bloomfield
+2369,East Liberty
+2370,Knoxville
+2371,South Side Slopes
+2372,Crawford-Roberts
+2373,Greenfield
+2374,Greenfield
+2375,Greenfield
+2376,Greenfield
+2377,Marshall-Shadeland
+2378,Shadyside
+2379,Shadyside
+2380,Shadyside
+2381,Sheraden
+2382,Garfield
+2383,South Side Slopes
+2384,East Allegheny
+2385,Chateau
+2386,Marshall-Shadeland
+2387,Sheraden
+2388,Sheraden
+2389,Sheraden
+2390,Central Business District
+2391,Mount Oliver
+2392,Homewood West
+2393,South Side Flats
+2394,Homewood North
+2395,Homewood West
+2396,Shadyside
+2397,Brighton Heights
+2398,Homewood North
+2399,Crawford-Roberts
+2400,West End
+2401,West End
+2402,West End
+2403,Friendship
+2404,Larimer
+2405,Mount Washington
+2406,Mount Washington
+2407,California-Kirkbride
+2408,Greenfield
+2409,Middle Hill
+2410,Homewood South
+2411,East Hills
+2412,Central Business District
+2413,Bluff
+2414,Hazelwood
+2415,Beltzhoover
+2416,Bloomfield
+2417,Outside City
+2418,East Liberty
+2419,Carrick
+2420,South Side Flats
+2421,Bluff
+2422,Garfield
+2423,Fineview
+2424,Crawford-Roberts
+2425,Knoxville
+2426,Regent Square
+2427,Marshall-Shadeland
+2428,Bluff
+2429,Upper Hill
+2430,Overbrook
+2431,Overbrook
+2432,South Side Flats
+2433,Outside City
+2434,Knoxville
+2435,Central Lawrenceville
+2436,South Side Flats
+2437,South Side Flats
+2438,South Side Flats
+2439,Central Business District
+2440,Carrick
+2441,Middle Hill
+2442,Middle Hill
+2443,Middle Hill
+2444,Crafton Heights
+2445,East Allegheny
+2446,Brookline
+2447,Northview Heights
+2448,East Liberty
+2449,Central Business District
+2450,South Side Flats
+2451,South Side Flats
+2452,East Allegheny
+2453,Central North Side
+2454,Elliott
+2455,Brookline
+2456,Central Oakland
+2457,North Shore
+2458,Brighton Heights
+2459,South Side Flats
+2460,North Shore
+2461,Westwood
+2462,Central North Side
+2463,Brookline
+2464,Central Oakland
+2465,Bedford Dwellings
+2466,East Liberty
+2467,East Liberty
+2468,Central Business District
+2469,Point Breeze
+2470,Brookline
+2471,Bluff
+2472,Homewood South
+2473,Spring Garden
+2474,North Shore
+2475,Terrace Village
+2476,Marshall-Shadeland
+2477,Hays
+2478,Crawford-Roberts
+2479,Lincoln-Lemington-Belmar
+2480,North Oakland
+2481,North Oakland
+2482,North Oakland
+2483,Stanton Heights
+2484,Carrick
+2485,Crafton Heights
+2486,Carrick
+2487,Hazelwood
+2488,Carrick
+2489,South Side Flats
+2490,South Side Flats
+2491,Larimer
+2492,South Side Flats
+2493,Troy Hill
+2494,Allentown
+2495,Hazelwood
+2496,California-Kirkbride
+2497,Crafton Heights
+2498,Perry North
+2499,Homewood North
+2500,Beltzhoover
+2501,Highland Park
+2502,Central Business District
+2503,
+2504,Allentown
+2505,Brookline
+2506,Brookline
+2507,Central Oakland
+2508,Central Oakland
+2509,South Side Flats
+2510,North Shore
+2511,South Side Flats
+2512,Central Business District
+2513,Upper Lawrenceville
+2514,South Side Flats
+2515,Homewood West
+2516,Brighton Heights
+2517,East Allegheny
+2518,Marshall-Shadeland
+2519,
+2520,Homewood West
+2521,Carrick
+2522,North Oakland
+2523,Allentown
+2524,East Hills
+2525,Greenfield
+2526,Homewood South
+2527,Homewood South
+2528,Central North Side
+2529,East Hills
+2530,Hazelwood
+2531,Hazelwood
+2532,Central Business District
+2533,Central Business District
+2534,Knoxville
+2535,Central Business District
+2536,Sheraden
+2537,Sheraden
+2538,Homewood South
+2539,
+2540,Mount Washington
+2541,Hazelwood
+2542,Arlington
+2543,South Side Flats
+2544,Central Business District
+2545,Spring Hill-City View
+2546,Spring Hill-City View
+2547,Shadyside
+2548,North Oakland
+2549,Knoxville
+2550,
+2551,
+2552,Fineview
+2553,Brighton Heights
+2554,Lincoln-Lemington-Belmar
+2555,Middle Hill
+2556,Middle Hill
+2557,Carrick
+2558,Morningside
+2559,Bon Air
+2560,Middle Hill
+2561,
+2562,Brookline
+2563,Central Lawrenceville
+2564,Shadyside
+2565,Lower Lawrenceville
+2566,Lower Lawrenceville
+2567,East Hills
+2568,Spring Hill-City View
+2569,East Hills
+2570,Sheraden
+2571,Sheraden
+2572,Garfield
+2573,Homewood North
+2574,
+2575,Homewood South
+2576,Elliott
+2577,Elliott
+2578,Central Lawrenceville
+2579,Central Lawrenceville
+2580,South Side Flats
+2581,Marshall-Shadeland
+2582,Homewood West
+2583,Northview Heights
+2584,Perry South
+2585,Perry South
+2586,Brookline
+2587,Brookline
+2588,Brookline
+2589,Perry South
+2590,Homewood North
+2591,Beechview
+2592,Central Business District
+2593,
+2594,Perry North
+2595,Perry South
+2596,Carrick
+2597,Overbrook
+2598,Overbrook
+2599,Homewood North
+2600,Mount Washington
+2601,Perry South
+2602,Homewood South
+2603,Homewood South
+2604,Bloomfield
+2605,Carrick
+2606,Elliott
+2607,South Side Flats
+2608,Brighton Heights
+2609,
+2610,Lincoln-Lemington-Belmar
+2611,Brookline
+2612,Elliott
+2613,Shadyside
+2614,Perry South
+2615,Elliott
+2616,Highland Park
+2617,Beechview
+2618,Garfield
+2619,Spring Hill-City View
+2620,
+2621,Lower Lawrenceville
+2622,Lower Lawrenceville
+2623,East Liberty
+2624,Highland Park
+2625,South Side Flats
+2626,Upper Lawrenceville
+2627,Perry South
+2628,Crawford-Roberts
+2629,Crawford-Roberts
+2630,
+2631,Central Oakland
+2632,Mount Washington
+2633,Central Business District
+2634,South Side Flats
+2635,South Side Flats
+2636,
+2637,South Side Flats
+2638,Brighton Heights
+2639,East Liberty
+2640,Carrick
+2641,West Oakland
+2642,South Side Flats
+2643,Glen Hazel
+2644,
+2645,Mount Washington
+2646,Central North Side
+2647,Central North Side
+2648,Central North Side
+2649,Homewood West
+2650,Knoxville
+2651,South Shore
+2652,Central North Side
+2653,Marshall-Shadeland
+2654,Perry South
+2655,East Allegheny
+2656,South Side Flats
+2657,Shadyside
+2658,Crawford-Roberts
+2659,Crawford-Roberts
+2660,Allegheny Center
+2661,
+2662,Brookline
+2663,Central Lawrenceville
+2664,Sheraden
+2665,Squirrel Hill South
+2666,Bloomfield
+2667,Homewood West
+2668,Banksville
+2669,Greenfield
+2670,Greenfield
+2671,Knoxville
+2672,Mount Washington
+2673,Allentown
+2674,Highland Park
+2675,Spring Hill-City View
+2676,South Shore
+2677,Squirrel Hill South
+2678,Squirrel Hill South
+2679,Mount Washington
+2680,Allentown
+2681,Lincoln-Lemington-Belmar
+2682,Larimer
+2683,Lower Lawrenceville
+2684,Crawford-Roberts
+2685,Perry South
+2686,Carrick
+2687,Brighton Heights
+2688,Oakwood
+2689,Manchester
+2690,Manchester
+2691,Fineview
+2692,Hazelwood
+2693,East Allegheny
+2694,Crawford-Roberts
+2695,Allegheny Center
+2696,East Hills
+2697,East Hills
+2698,Squirrel Hill South
+2699,East Allegheny
+2700,Garfield
+2701,Middle Hill
+2702,Allentown
+2703,East Allegheny
+2704,Garfield
+2705,Middle Hill
+2706,Hazelwood
+2707,Brighton Heights
+2708,Brighton Heights
+2709,Brighton Heights
+2710,Bloomfield
+2711,Perry North
+2712,South Side Flats
+2713,South Side Flats
+2714,South Side Flats
+2715,Marshall-Shadeland
+2716,Fineview
+2717,East Allegheny
+2718,North Shore
+2719,South Side Flats
+2720,Highland Park
+2721,Beechview
+2722,Knoxville
+2723,Central North Side
+2724,South Oakland
+2725,Allegheny Center
+2726,South Side Flats
+2727,Brookline
+2728,Central North Side
+2729,Central North Side
+2730,Highland Park
+2731,Central North Side
+2732,Strip District
+2733,Bloomfield
+2734,Bloomfield
+2735,Bluff
+2736,Bluff
+2737,Garfield
+2738,Central Business District
+2739,Knoxville
+2740,Homewood South
+2741,Stanton Heights
+2742,Stanton Heights
+2743,West Oakland
+2744,West Oakland
+2745,Stanton Heights
+2746,Bluff
+2747,Central Business District
+2748,Central Business District
+2749,Central Business District
+2750,Lincoln-Lemington-Belmar
+2751,South Side Flats
+2752,Bluff
+2753,Central Business District
+2754,Fairywood
+2755,Allegheny Center
+2756,East Liberty
+2757,Carrick
+2758,Central Business District
+2759,Fairywood
+2760,Fineview
+2761,Garfield
+2762,
+2763,South Side Flats
+2764,South Side Flats
+2765,Perry South
+2766,Central Oakland
+2767,Squirrel Hill South
+2768,Polish Hill
+2769,Westwood
+2770,
+2771,Sheraden
+2772,South Side Flats
+2773,South Side Flats
+2774,East Liberty
+2775,Beechview
+2776,Squirrel Hill South
+2777,Homewood West
+2778,South Shore
+2779,South Oakland
+2780,Bluff
+2781,Strip District
+2782,Squirrel Hill South
+2783,Morningside
+2784,East Allegheny
+2785,East Allegheny
+2786,East Allegheny
+2787,East Allegheny
+2788,Point Breeze
+2789,Point Breeze
+2790,Central Business District
+2791,Chateau
+2792,Crawford-Roberts
+2793,Crawford-Roberts
+2794,
+2795,Shadyside
+2796,Middle Hill
+2797,Brookline
+2798,Fineview
+2799,Fineview
+2800,West End
+2801,Highland Park
+2802,Highland Park
+2803,Bluff
+2804,East Hills
+2805,West Oakland
+2806,Arlington Heights
+2807,South Oakland
+2808,Central Business District
+2809,South Side Flats
+2810,Allentown
+2811,South Side Flats
+2812,Perry North
+2813,Perry North
+2814,Perry North
+2815,Beechview
+2816,Larimer
+2817,Larimer
+2818,Glen Hazel
+2819,East Allegheny
+2820,Sheraden
+2821,Banksville
+2822,Banksville
+2823,South Side Flats
+2824,Carrick
+2825,Lincoln-Lemington-Belmar
+2826,Mount Oliver
+2827,Beechview
+2828,Bon Air
+2829,Central North Side
+2830,Crafton Heights
+2831,East Allegheny
+2832,Central Business District
+2833,South Side Flats
+2834,East Liberty
+2835,East Liberty
+2836,East Allegheny
+2837,Allegheny Center
+2838,East Liberty
+2839,East Liberty
+2840,East Allegheny
+2841,West End
+2842,Squirrel Hill South
+2843,Troy Hill
+2844,Central Business District
+2845,Central Business District
+2846,Crawford-Roberts
+2847,Central North Side
+2848,
+2849,East Allegheny
+2850,Crawford-Roberts
+2851,South Side Flats
+2852,St. Clair
+2853,St. Clair
+2854,Crafton Heights
+2855,Carrick
+2856,Carrick
+2857,
+2858,Shadyside
+2859,
+2860,Beechview
+2861,Bluff
+2862,Northview Heights
+2863,Allentown
+2864,Allentown
+2865,Allentown
+2866,Elliott
+2867,Squirrel Hill South
+2868,Lincoln-Lemington-Belmar
+2869,Marshall-Shadeland
+2870,Troy Hill
+2871,Strip District
+2872,Central Business District
+2873,Central Business District
+2874,Central Business District
+2875,Strip District
+2876,East Allegheny
+2877,Homewood South
+2878,Garfield
+2879,East Allegheny
+2880,Brookline
+2881,Allegheny Center
+2882,
+2883,Stanton Heights
+2884,Upper Hill
+2885,Upper Hill
+2886,Brookline
+2887,North Shore
+2888,North Shore
+2889,East Allegheny
+2890,Troy Hill
+2891,South Side Flats
+2892,Crawford-Roberts
+2893,Sheraden
+2894,Sheraden
+2895,Central Business District
+2896,Brookline
+2897,Perry South
+2898,Bluff
+2899,Central Business District
+2900,Middle Hill
+2901,Central North Side
+2902,North Oakland
+2903,Knoxville
+2904,Homewood North
+2905,Garfield
+2906,Hazelwood
+2907,Central North Side
+2908,Allentown
+2909,Central Oakland
+2910,East Liberty
+2911,
+2912,Arlington
+2913,Hazelwood
+2914,Northview Heights
+2915,Allentown
+2916,East Liberty
+2917,Beechview
+2918,Lincoln-Lemington-Belmar
+2919,Beechview
+2920,Allegheny Center
+2921,South Side Flats
+2922,Allentown
+2923,Garfield
+2924,South Side Flats
+2925,Brookline
+2926,Marshall-Shadeland
+2927,Homewood West
+2928,East Allegheny
+2929,Sheraden
+2930,Arlington Heights
+2931,Central Business District
+2932,North Shore
+2933,Knoxville
+2934,
+2935,
+2936,Hazelwood
+2937,Carrick
+2938,
+2939,Central North Side
+2940,Bluff
+2941,East Liberty
+2942,Central Business District
+2943,Central North Side
+2944,Spring Hill-City View
+2945,Spring Hill-City View
+2946,Homewood South
+2947,Sheraden
+2948,
+2949,Mount Oliver
+2950,Marshall-Shadeland
+2951,Homewood West
+2952,Bluff
+2953,Arlington
+2954,Squirrel Hill South
+2955,Squirrel Hill South
+2956,Northview Heights
+2957,Lincoln-Lemington-Belmar
+2958,Bloomfield
+2959,Bloomfield
+2960,East Liberty
+2961,North Shore
+2962,Central North Side
+2963,Knoxville
+2964,Morningside
+2965,Middle Hill
+2966,Beltzhoover
+2967,Homewood West
+2968,Knoxville
+2969,Spring Garden
+2970,Point Breeze
+2971,East Liberty
+2972,East Allegheny
+2973,East Allegheny
+2974,East Allegheny
+2975,Central Business District
+2976,Middle Hill
+2977,Westwood
+2978,Larimer
+2979,Mount Washington
+2980,Bloomfield
+2981,Troy Hill
+2982,Homewood South
+2983,Carrick
+2984,East Liberty
+2985,East Liberty
+2986,Mount Washington
+2987,Central Business District
+2988,Crafton Heights
+2989,Crafton Heights
+2990,Carrick
+2991,East Allegheny
+2992,Homewood South
+2993,Homewood South
+2994,Northview Heights
+2995,Mount Oliver
+2996,Upper Hill
+2997,Esplen
+2998,Esplen
+2999,Esplen
+3000,Brighton Heights
+3001,Homewood South
+3002,Lower Lawrenceville
+3003,Fineview
+3004,South Side Flats
+3005,Garfield
+3006,Marshall-Shadeland
+3007,Banksville
+3008,Allentown
+3009,Homewood South
+3010,California-Kirkbride
+3011,Highland Park
+3012,Homewood West
+3013,Squirrel Hill North
+3014,Central Business District
+3015,North Shore
+3016,Hazelwood
+3017,Marshall-Shadeland
+3018,Highland Park
+3019,West Oakland
+3020,Central Business District
+3021,Beechview
+3022,Ridgemont
+3023,Squirrel Hill North
+3024,Chateau
+3025,Beltzhoover
+3026,South Side Flats
+3027,Central Business District
+3028,Troy Hill
+3029,East Allegheny
+3030,Beechview
+3031,Brookline
+3032,East Carnegie
+3033,Carrick
+3034,Central Business District
+3035,Central Business District
+3036,Brookline
+3037,Shadyside
+3038,Bluff
+3039,Westwood
+3040,Lincoln-Lemington-Belmar
+3041,Outside City
+3042,Bluff
+3043,Carrick
+3044,Beechview
+3045,Perry South
+3046,Brookline
+3047,East Hills
+3048,Central North Side
+3049,Carrick
+3050,Carrick
+3051,Troy Hill
+3052,Central Business District
+3053,California-Kirkbride
+3054,California-Kirkbride
+3055,Bluff
+3056,Homewood North
+3057,Homewood North
+3058,Bedford Dwellings
+3059,East Allegheny
+3060,Knoxville
+3061,South Side Slopes
+3062,Lincoln-Lemington-Belmar
+3063,Carrick
+3064,Homewood South
+3065,Homewood South
+3066,South Oakland
+3067,Greenfield
+3068,Crawford-Roberts
+3069,Lincoln-Lemington-Belmar
+3070,Central Business District
+3071,Allentown
+3072,Central Business District
+3073,Spring Hill-City View
+3074,Bloomfield
+3075,Beechview
+3076,Central Business District
+3077,Central Business District
+3078,Brookline
+3079,Shadyside
+3080,South Side Slopes
+3081,Central Business District
+3082,Central Business District
+3083,
+3084,South Side Flats
+3085,Marshall-Shadeland
+3086,Bedford Dwellings
+3087,Crafton Heights
+3088,Middle Hill
+3089,Middle Hill
+3090,East Allegheny
+3091,Homewood South
+3092,Allentown
+3093,Allentown
+3094,Central Business District
+3095,Mount Washington
+3096,Greenfield
+3097,Sheraden
+3098,Squirrel Hill South
+3099,Mount Oliver
+3100,Squirrel Hill South
+3101,
+3102,North Oakland
+3103,Homewood North
+3104,Brookline
+3105,Squirrel Hill South
+3106,Central Business District
+3107,Allentown
+3108,Perry South
+3109,Homewood West
+3110,West Oakland
+3111,Central Business District
+3112,Upper Lawrenceville
+3113,Northview Heights
+3114,Carrick
+3115,Garfield
+3116,Squirrel Hill South
+3117,East Hills
+3118,Oakwood
+3119,Bluff
+3120,North Shore
+3121,Summer Hill
+3122,
+3123,Squirrel Hill South
+3124,Central North Side
+3125,Lincoln-Lemington-Belmar
+3126,Homewood North
+3127,Brighton Heights
+3128,Fineview
+3129,Lincoln-Lemington-Belmar
+3130,South Shore
+3131,Homewood South
+3132,
+3133,North Oakland
+3134,West End
+3135,South Side Slopes
+3136,South Side Flats
+3137,North Shore
+3138,South Side Flats
+3139,Bluff
+3140,Bedford Dwellings
+3141,Central Business District
+3142,South Side Slopes
+3143,East Liberty
+3144,Homewood South
+3145,East Liberty
+3146,Central Lawrenceville
+3147,Central Business District
+3148,Northview Heights
+3149,East Liberty
+3150,East Liberty
+3151,East Liberty
+3152,North Shore
+3153,Carrick
+3154,Fineview
+3155,Carrick
+3156,Squirrel Hill South
+3157,Beltzhoover
+3158,Mount Washington
+3159,East Allegheny
+3160,East Allegheny
+3161,Garfield
+3162,South Side Slopes
+3163,South Side Slopes
+3164,Fineview
+3165,Bedford Dwellings
+3166,Central Business District
+3167,Squirrel Hill North
+3168,North Shore
+3169,Allentown
+3170,Marshall-Shadeland
+3171,Brookline
+3172,Homewood West
+3173,North Shore
+3174,Garfield
+3175,Outside City
+3176,Highland Park
+3177,Highland Park
+3178,Mount Washington
+3179,Mount Washington
+3180,Bluff
+3181,Duquesne Heights
+3182,North Shore
+3183,Polish Hill
+3184,Westwood
+3185,Squirrel Hill South
+3186,Marshall-Shadeland
+3187,East Liberty
+3188,Squirrel Hill South
+3189,Crawford-Roberts
+3190,Crawford-Roberts
+3191,Crawford-Roberts
+3192,Crawford-Roberts
+3193,Allegheny Center
+3194,Allegheny Center
+3195,Allegheny Center
+3196,Allegheny Center
+3197,Allegheny Center
+3198,Homewood North
+3199,
+3200,Sheraden
+3201,Sheraden
+3202,Knoxville
+3203,Beechview
+3204,Sheraden
+3205,Overbrook
+3206,East Allegheny
+3207,East Allegheny
+3208,Carrick
+3209,Carrick
+3210,Carrick
+3211,Carrick
+3212,Brighton Heights
+3213,South Side Flats
+3214,Carrick
+3215,Central North Side
+3216,Knoxville
+3217,East Liberty
+3218,Homewood North
+3219,Upper Hill
+3220,California-Kirkbride
+3221,
+3222,
+3223,Bluff
+3224,Central Business District
+3225,West Oakland
+3226,Bluff
+3227,Hazelwood
+3228,North Shore
+3229,North Shore
+3230,Shadyside
+3231,East Allegheny
+3232,Upper Lawrenceville
+3233,Crawford-Roberts
+3234,Mount Washington
+3235,Central Business District
+3236,Larimer
+3237,Central Business District
+3238,Greenfield
+3239,Crawford-Roberts
+3240,Central North Side
+3241,Central North Side
+3242,Strip District
+3243,Carrick
+3244,Garfield
+3245,Homewood South
+3246,Central Oakland
+3247,Overbrook
+3248,Knoxville
+3249,Lincoln-Lemington-Belmar
+3250,Brighton Heights
+3251,
+3252,Lincoln-Lemington-Belmar
+3253,Fineview
+3254,Spring Hill-City View
+3255,Central Business District
+3256,Glen Hazel
+3257,East Allegheny
+3258,Carrick
+3259,Troy Hill
+3260,Brighton Heights
+3261,Marshall-Shadeland
+3262,South Side Flats
+3263,South Side Flats
+3264,Terrace Village
+3265,East Liberty
+3266,Homewood South
+3267,Elliott
+3268,Elliott
+3269,Lincoln-Lemington-Belmar
+3270,West Oakland
+3271,Esplen
+3272,Knoxville
+3273,Mount Washington
+3274,Terrace Village
+3275,Perry South
+3276,Knoxville
+3277,Homewood South
+3278,Brookline
+3279,Arlington
+3280,North Shore
+3281,North Shore
+3282,North Shore
+3283,North Shore
+3284,Crawford-Roberts
+3285,Central Business District
+3286,East Allegheny
+3287,West End
+3288,Duquesne Heights
+3289,Brookline
+3290,North Shore
+3291,Summer Hill
+3292,East Allegheny
+3293,East Allegheny
+3294,Larimer
+3295,Central Oakland
+3296,Bedford Dwellings
+3297,East Allegheny
+3298,South Side Flats
+3299,Bedford Dwellings
+3300,Bloomfield
+3301,Homewood North
+3302,Homewood North
+3303,Homewood North
+3304,Bluff
+3305,Brookline
+3306,Homewood West
+3307,Homewood West
+3308,Larimer
+3309,North Shore
+3310,Elliott
+3311,South Side Flats
+3312,Bluff
+3313,Greenfield
+3314,Chateau
+3315,Carrick
+3316,Central Lawrenceville
+3317,Central Business District
+3318,East Allegheny
+3319,East Allegheny
+3320,East Liberty
+3321,Central Oakland
+3322,Beltzhoover
+3323,Beltzhoover
+3324,Point Breeze North
+3325,Homewood North
+3326,Central North Side
+3327,Spring Hill-City View
+3328,Outside City
+3329,Bluff
+3330,Bluff
+3331,Sheraden
+3332,Homewood South
+3333,Homewood South
+3334,Homewood North
+3335,Perry North
+3336,South Side Flats
+3337,Central Business District
+3338,Allegheny Center
+3339,Banksville
+3340,Garfield
+3341,East Hills
+3342,East Hills
+3343,Allentown
+3344,Knoxville
+3345,Carrick
+3346,East Allegheny
+3347,West Oakland
+3348,East Hills
+3349,Northview Heights
+3350,Northview Heights
+3351,Northview Heights
+3352,Northview Heights
+3353,Northview Heights
+3354,Northview Heights
+3355,East Allegheny
+3356,Beechview
+3357,Hazelwood
+3358,Knoxville
+3359,Garfield
+3360,Hazelwood
+3361,South Side Flats
+3362,Carrick
+3363,South Side Flats
+3364,Homewood South
+3365,Homewood South
+3366,South Side Flats
+3367,South Side Flats
+3368,South Side Flats
+3369,Strip District
+3370,Beechview
+3371,Allegheny West
+3372,Carrick
+3373,Sheraden
+3374,Beechview
+3375,Esplen
+3376,Stanton Heights
+3377,South Side Flats
+3378,Upper Lawrenceville
+3379,Larimer
+3380,Middle Hill
+3381,Point Breeze
+3382,Squirrel Hill South
+3383,Westwood
+3384,
+3385,Strip District
+3386,Bedford Dwellings
+3387,Garfield
+3388,Central North Side
+3389,Larimer
+3390,Carrick
+3391,Lincoln-Lemington-Belmar
+3392,Lincoln-Lemington-Belmar
+3393,Highland Park
+3394,Bluff
+3395,Sheraden
+3396,Mount Washington
+3397,Chateau
+3398,Westwood
+3399,East Liberty
+3400,Perry South
+3401,East Liberty
+3402,Homewood West
+3403,Homewood West
+3404,Homewood West
+3405,Knoxville
+3406,Elliott
+3407,Sheraden
+3408,East Liberty
+3409,Crawford-Roberts
+3410,Outside City
+3411,Carrick
+3412,Central North Side
+3413,Homewood South
+3414,Chateau
+3415,Mount Washington
+3416,Manchester
+3417,Morningside
+3418,Morningside
+3419,California-Kirkbride
+3420,Middle Hill
+3421,Middle Hill
+3422,
+3423,Crafton Heights
+3424,Spring Hill-City View
+3425,Fineview
+3426,Brighton Heights
+3427,Outside City
+3428,Central Business District
+3429,Fineview
+3430,East Allegheny
+3431,Carrick
+3432,Morningside
+3433,Mount Washington
+3434,East Hills
+3435,East Allegheny
+3436,Crawford-Roberts
+3437,South Side Slopes
+3438,Crafton Heights
+3439,Homewood South
+3440,Bedford Dwellings
+3441,Crawford-Roberts
+3442,West Oakland
+3443,Arlington
+3444,Spring Hill-City View
+3445,Crawford-Roberts
+3446,Crawford-Roberts
+3447,Marshall-Shadeland
+3448,Carrick
+3449,East Liberty
+3450,Middle Hill
+3451,Larimer
+3452,Homewood North
+3453,Hazelwood
+3454,Perry South
+3455,Garfield
+3456,Garfield
+3457,Garfield
+3458,Garfield
+3459,Central Business District
+3460,Sheraden
+3461,South Side Slopes
+3462,California-Kirkbride
+3463,Mount Washington
+3464,Central Oakland
+3465,Mount Washington
+3466,Central Oakland
+3467,Allegheny West
+3468,Homewood South
+3469,North Shore
+3470,South Side Flats
+3471,North Shore
+3472,South Side Flats
+3473,South Side Flats
+3474,Central Business District
+3475,Central Oakland
+3476,Bluff
+3477,North Shore
+3478,Carrick
+3479,Northview Heights
+3480,North Shore
+3481,Central Business District
+3482,South Shore
+3483,South Shore
+3484,Bluff
+3485,Squirrel Hill North
+3486,South Side Flats
+3487,Highland Park
+3488,East Allegheny
+3489,Garfield
+3490,Point Breeze
+3491,Point Breeze
+3492,Perry North
+3493,Marshall-Shadeland
+3494,East Liberty
+3495,Mount Oliver
+3496,Squirrel Hill South
+3497,Perry South
+3498,Beechview
+3499,Sheraden
+3500,Perry South
+3501,South Side Flats
+3502,Brookline
+3503,Knoxville
+3504,South Side Slopes
+3505,Squirrel Hill South
+3506,
+3507,Middle Hill
+3508,Beltzhoover
+3509,Bluff
+3510,Central Oakland
+3511,Troy Hill
+3512,Garfield
+3513,Carrick
+3514,Beltzhoover
+3515,Bedford Dwellings
+3516,
+3517,Marshall-Shadeland
+3518,Bluff
+3519,East Allegheny
+3520,Larimer
+3521,Spring Garden
+3522,Lincoln-Lemington-Belmar
+3523,East Allegheny
+3524,Point Breeze North
+3525,Middle Hill
+3526,Point Breeze
+3527,Squirrel Hill South
+3528,South Side Flats
+3529,Shadyside
+3530,Shadyside
+3531,Spring Hill-City View
+3532,Outside State
+3533,Sheraden
+3534,East Liberty
+3535,East Hills
+3536,South Side Flats
+3537,Friendship
+3538,Friendship
+3539,Central Business District
+3540,Homewood South
+3541,South Side Slopes
+3542,Bedford Dwellings
+3543,Marshall-Shadeland
+3544,
+3545,Brighton Heights
+3546,East Liberty
+3547,Bloomfield
+3548,North Oakland
+3549,Garfield
+3550,Central Business District
+3551,South Side Flats
+3552,East Liberty
+3553,East Liberty
+3554,Fineview
+3555,Central Business District
+3556,Point Breeze North
+3557,Brookline
+3558,Brookline
+3559,Fineview
+3560,Beltzhoover
+3561,Duquesne Heights
+3562,Duquesne Heights
+3563,Beltzhoover
+3564,
+3565,Stanton Heights
+3566,Spring Hill-City View
+3567,
+3568,Knoxville
+3569,Arlington
+3570,Outside City
+3571,Upper Hill
+3572,Knoxville
+3573,Northview Heights
+3574,Duquesne Heights
+3575,Central North Side
+3576,Central Business District
+3577,Beltzhoover
+3578,Sheraden
+3579,Sheraden
+3580,Carrick
+3581,Banksville
+3582,Spring Hill-City View
+3583,Central Lawrenceville
+3584,Point Breeze North
+3585,Perry South
+3586,Central North Side
+3587,Central Business District
+3588,Brookline
+3589,Carrick
+3590,Greenfield
+3591,Homewood South
+3592,Greenfield
+3593,Central Oakland
+3594,South Side Flats
+3595,Beechview
+3596,Beechview
+3597,Highland Park
+3598,
+3599,Overbrook
+3600,Bloomfield
+3601,Hazelwood
+3602,East Allegheny
+3603,Windgap
+3604,Brighton Heights
+3605,South Side Flats
+3606,South Side Flats
+3607,Strip District
+3608,Sheraden
+3609,Squirrel Hill South
+3610,Central Business District
+3611,Middle Hill
+3612,Crafton Heights
+3613,Shadyside
+3614,South Side Flats
+3615,Larimer
+3616,Banksville
+3617,South Oakland
+3618,Brookline
+3619,Brookline
+3620,
+3621,Squirrel Hill South
+3622,Bluff
+3623,East Hills
+3624,Lower Lawrenceville
+3625,South Side Flats
+3626,Central Business District
+3627,Sheraden
+3628,Central Business District
+3629,Lincoln-Lemington-Belmar
+3630,
+3631,Crawford-Roberts
+3632,Crawford-Roberts
+3633,Crawford-Roberts
+3634,Lincoln-Lemington-Belmar
+3635,Lincoln-Lemington-Belmar
+3636,South Side Flats
+3637,Middle Hill
+3638,Middle Hill
+3639,Mount Washington
+3640,Carrick
+3641,Allegheny West
+3642,Upper Lawrenceville
+3643,Northview Heights
+3644,Central Business District
+3645,East Liberty
+3646,Homewood South
+3647,Central Business District
+3648,Point Breeze North
+3649,Larimer
+3650,Central Lawrenceville
+3651,Central Lawrenceville
+3652,Strip District
+3653,South Side Flats
+3654,Bedford Dwellings
+3655,Bedford Dwellings
+3656,Knoxville
+3657,Carrick
+3658,Homewood South
+3659,Central Business District
+3660,Chateau
+3661,Chateau
+3662,Brookline
+3663,Central Business District
+3664,Chartiers City
+3665,Mount Washington
+3666,Bluff
+3667,Central Business District
+3668,Mount Washington
+3669,Sheraden
+3670,Crafton Heights
+3671,Crafton Heights
+3672,Knoxville
+3673,East Liberty
+3674,Crawford-Roberts
+3675,Central Lawrenceville
+3676,Middle Hill
+3677,Central Business District
+3678,East Liberty
+3679,Central Business District
+3680,East Liberty
+3681,Allegheny Center
+3682,Middle Hill
+3683,Beltzhoover
+3684,Fineview
+3685,East Allegheny
+3686,East Allegheny
+3687,Point Breeze North
+3688,Hazelwood
+3689,Bloomfield
+3690,Brookline
+3691,Crawford-Roberts
+3692,Middle Hill
+3693,
+3694,Oakwood
+3695,Brookline
+3696,South Side Flats
+3697,Middle Hill
+3698,Crawford-Roberts
+3699,Crawford-Roberts
+3700,Garfield
+3701,Crawford-Roberts
+3702,Crawford-Roberts
+3703,Crawford-Roberts
+3704,South Side Flats
+3705,Central Oakland
+3706,Central Oakland
+3707,Middle Hill
+3708,Duquesne Heights
+3709,Mount Washington
+3710,Morningside
+3711,Morningside
+3712,Perry North
+3713,Central North Side
+3714,Strip District
+3715,Lincoln-Lemington-Belmar
+3716,
+3717,Central Business District
+3718,
+3719,
+3720,
+3721,Beltzhoover
+3722,Perry North
+3723,Larimer
+3724,East Allegheny
+3725,Squirrel Hill South
+3726,Fineview
+3727,Homewood North
+3728,Spring Hill-City View
+3729,Allegheny Center
+3730,South Side Flats
+3731,Sheraden
+3732,
+3733,Crafton Heights
+3734,Garfield
+3735,South Side Slopes
+3736,Allentown
+3737,Arlington
+3738,Beechview
+3739,Beechview
+3740,Central Business District
+3741,East Liberty
+3742,East Liberty
+3743,West Oakland
+3744,East Hills
+3745,Greenfield
+3746,South Side Slopes
+3747,Brookline
+3748,Outside County
+3749,Bloomfield
+3750,South Side Flats
+3751,Knoxville
+3752,Westwood
+3753,Upper Hill
+3754,Central Business District
+3755,Knoxville
+3756,Terrace Village
+3757,
+3758,Outside County
+3759,Bloomfield
+3760,Crawford-Roberts
+3761,Central Business District
+3762,Beechview
+3763,Central Business District
+3764,Knoxville
+3765,Hazelwood
+3766,Mount Washington
+3767,East Liberty
+3768,South Side Flats
+3769,South Side Flats
+3770,South Side Flats
+3771,South Side Flats
+3772,Crawford-Roberts
+3773,Carrick
+3774,South Side Flats
+3775,Banksville
+3776,
+3777,Polish Hill
+3778,East Allegheny
+3779,South Side Flats
+3780,South Side Flats
+3781,South Side Flats
+3782,Central North Side
+3783,South Side Flats
+3784,South Side Flats
+3785,South Side Flats
+3786,South Side Flats
+3787,South Side Flats
+3788,East Hills
+3789,East Hills
+3790,Fineview
+3791,Lincoln Place
+3792,Marshall-Shadeland
+3793,Friendship
+3794,Marshall-Shadeland
+3795,Mount Washington
+3796,Northview Heights
+3797,Summer Hill
+3798,Carrick
+3799,Middle Hill
+3800,Bluff
+3801,Allentown
+3802,East Liberty
+3803,California-Kirkbride
+3804,East Hills
+3805,East Allegheny
+3806,Squirrel Hill North
+3807,Bloomfield
+3808,Perry South
+3809,Outside City
+3810,Spring Hill-City View
+3811,North Shore
+3812,South Side Flats
+3813,Central Business District
+3814,Homewood North
+3815,
+3816,Central Lawrenceville
+3817,Lower Lawrenceville
+3818,Beechview
+3819,South Side Slopes
+3820,Mount Washington
+3821,Knoxville
+3822,Homewood South
+3823,West Oakland
+3824,Squirrel Hill South
+3825,Point Breeze North
+3826,Chateau
+3827,
+3828,South Side Flats
+3829,Brookline
+3830,Shadyside
+3831,Chateau
+3832,Crafton Heights
+3833,East Allegheny
+3834,Central Oakland
+3835,Morningside
+3836,
+3837,Sheraden
+3838,Outside County
+3839,Bloomfield
+3840,South Oakland
+3841,East Hills
+3842,Brookline
+3843,Brookline
+3844,Hazelwood
+3845,Highland Park
+3846,Knoxville
+3847,Beechview
+3848,Fineview
+3849,Fineview
+3850,Stanton Heights
+3851,Crawford-Roberts
+3852,
+3853,Lincoln Place
+3854,
+3855,Carrick
+3856,Allegheny Center
+3857,Central Business District
+3858,Homewood South
+3859,Lincoln-Lemington-Belmar
+3860,Strip District
+3861,East Allegheny
+3862,East Allegheny
+3863,East Allegheny
+3864,Garfield
+3865,Garfield
+3866,Mount Washington
+3867,Bon Air
+3868,Knoxville
+3869,
+3870,Homewood North
+3871,Homewood South
+3872,East Allegheny
+3873,Morningside
+3874,Carrick
+3875,Allegheny Center
+3876,Hazelwood
+3877,Allegheny Center
+3878,Crawford-Roberts
+3879,East Allegheny
+3880,Bedford Dwellings
+3881,South Side Flats
+3882,South Side Flats
+3883,Homewood South
+3884,Homewood South
+3885,Allegheny Center
+3886,Central Oakland
+3887,Brookline
+3888,Homewood North
+3889,Sheraden
+3890,East Hills
+3891,
+3892,North Shore
+3893,Central Business District
+3894,Homewood North
+3895,Homewood North
+3896,South Side Flats
+3897,Elliott
+3898,East Allegheny
+3899,Lower Lawrenceville
+3900,Lower Lawrenceville
+3901,North Shore
+3902,Central Business District
+3903,West Oakland
+3904,Central North Side
+3905,Brighton Heights
+3906,
+3907,Bluff
+3908,Sheraden
+3909,Crawford-Roberts
+3910,West Oakland
+3911,South Side Slopes
+3912,Point Breeze North
+3913,South Side Slopes
+3914,Central Oakland
+3915,Homewood West
+3916,Lincoln-Lemington-Belmar
+3917,Central Business District
+3918,Homewood South
+3919,Allegheny Center
+3920,Beltzhoover
+3921,Beechview
+3922,Homewood South
+3923,Fineview
+3924,Homewood South
+3925,Marshall-Shadeland
+3926,Elliott
+3927,Bluff
+3928,Fineview
+3929,Lincoln-Lemington-Belmar
+3930,Homewood South
+3931,Duquesne Heights
+3932,Homewood South
+3933,Allegheny Center
+3934,Central Business District
+3935,East Liberty
+3936,
+3937,Strip District
+3938,South Side Flats
+3939,South Side Flats
+3940,Hazelwood
+3941,East Liberty
+3942,Crawford-Roberts
+3943,South Side Flats
+3944,South Oakland
+3945,Brookline
+3946,South Side Flats
+3947,South Side Flats
+3948,Upper Hill
+3949,Westwood
+3950,Sheraden
+3951,West End
+3952,East Liberty
+3953,Sheraden
+3954,South Side Flats
+3955,Outside City
+3956,Hazelwood
+3957,Westwood
+3958,Hazelwood
+3959,Knoxville
+3960,Homewood North
+3961,Central Business District
+3962,South Shore
+3963,Homewood South
+3964,East Allegheny
+3965,Homewood South
+3966,Central Lawrenceville
+3967,East Allegheny
+3968,Banksville
+3969,
+3970,Crawford-Roberts
+3971,Crawford-Roberts
+3972,Crawford-Roberts
+3973,Bloomfield
+3974,East Liberty
+3975,East Liberty
+3976,East Allegheny
+3977,West Oakland
+3978,West Oakland
+3979,Garfield
+3980,Central Business District
+3981,Central Oakland
+3982,Central Oakland
+3983,Bluff
+3984,Greenfield
+3985,Marshall-Shadeland
+3986,Marshall-Shadeland
+3987,Crafton Heights
+3988,Crafton Heights
+3989,Sheraden
+3990,Allegheny Center
+3991,Mount Washington
+3992,
+3993,Carrick
+3994,Mount Oliver
+3995,Carrick
+3996,Carrick
+3997,Sheraden
+3998,Crafton Heights
+3999,Carrick
+4000,Carrick
+4001,Carrick
+4002,Homewood West
+4003,Carrick
+4004,Homewood West
+4005,Homewood West
+4006,Marshall-Shadeland
+4007,Central Business District
+4008,South Shore
+4009,Carrick
+4010,Knoxville
+4011,Bluff
+4012,Bluff
+4013,Bluff
+4014,Brookline
+4015,Larimer
+4016,Larimer
+4017,Larimer
+4018,Spring Hill-City View
+4019,Brookline
+4020,Beechview
+4021,Fineview
+4022,Brookline
+4023,Point Breeze North
+4024,Banksville
+4025,Homewood North
+4026,East Allegheny
+4027,Manchester
+4028,Spring Hill-City View
+4029,Allentown
+4030,Beechview
+4031,Central Lawrenceville
+4032,Central Lawrenceville
+4033,Spring Garden
+4034,South Side Flats
+4035,Carrick
+4036,Brookline
+4037,Bloomfield
+4038,Sheraden
+4039,Brookline
+4040,Banksville
+4041,Point Breeze
+4042,Arlington
+4043,Beechview
+4044,Brighton Heights
+4045,East Allegheny
+4046,West End
+4047,Brighton Heights
+4048,Lincoln-Lemington-Belmar
+4049,Homewood South
+4050,West Oakland
+4051,West Oakland
+4052,Lincoln-Lemington-Belmar
+4053,Knoxville
+4054,Carrick
+4055,Middle Hill
+4056,Middle Hill
+4057,Brighton Heights
+4058,Elliott
+4059,West End
+4060,Garfield
+4061,South Oakland
+4062,Bloomfield
+4063,Sheraden
+4064,Brookline
+4065,Beechview
+4066,South Side Flats
+4067,Central North Side
+4068,Sheraden
+4069,Marshall-Shadeland
+4070,Central Business District
+4071,Fineview
+4072,Northview Heights
+4073,Brighton Heights
+4074,
+4075,West End
+4076,Central North Side
+4077,Troy Hill
+4078,Spring Hill-City View
+4079,Brookline
+4080,East Liberty
+4081,Hazelwood
+4082,Lincoln-Lemington-Belmar
+4083,Larimer
+4084,South Side Flats
+4085,Overbrook
+4086,Sheraden
+4087,Central Business District
+4088,Lower Lawrenceville
+4089,Brookline
+4090,Crawford-Roberts
+4091,Terrace Village
+4092,Central Business District
+4093,North Shore
+4094,Hays
+4095,Hays
+4096,Hays
+4097,Homewood South
+4098,Homewood South
+4099,Homewood South
+4100,Bloomfield
+4101,Bloomfield
+4102,Central Business District
+4103,East Allegheny
+4104,Allegheny Center
+4105,Central Business District
+4106,Marshall-Shadeland
+4107,East Liberty
+4108,East Liberty
+4109,East Liberty
+4110,East Liberty
+4111,Marshall-Shadeland
+4112,Sheraden
+4113,Brighton Heights
+4114,
+4115,Squirrel Hill South
+4116,Larimer
+4117,East Allegheny
+4118,East Liberty
+4119,East Liberty
+4120,East Liberty
+4121,Sheraden
+4122,Garfield
+4123,Hazelwood
+4124,East Allegheny
+4125,Homewood North
+4126,Sheraden
+4127,Allentown
+4128,Marshall-Shadeland
+4129,Squirrel Hill North
+4130,South Side Slopes
+4131,Crawford-Roberts
+4132,East Allegheny
+4133,Bon Air
+4134,Bon Air
+4135,Chateau
+4136,Perry South
+4137,Perry South
+4138,Central Business District
+4139,Crawford-Roberts
+4140,East Liberty
+4141,East Allegheny
+4142,East Allegheny
+4143,Greenfield
+4144,East Allegheny
+4145,Lincoln-Lemington-Belmar
+4146,Perry South
+4147,Hazelwood
+4148,Central Business District
+4149,Central Business District
+4150,East Allegheny
+4151,Windgap
+4152,Windgap
+4153,Middle Hill
+4154,Allentown
+4155,Sheraden
+4156,Brookline
+4157,East Allegheny
+4158,Crawford-Roberts
+4159,Morningside
+4160,Central Business District
+4161,Larimer
+4162,East Liberty
+4163,
+4164,Central Business District
+4165,East Hills
+4166,East Hills
+4167,Overbrook
+4168,Arlington Heights
+4169,Upper Lawrenceville
+4170,Brookline
+4171,Bluff
+4172,Carrick
+4173,Carrick
+4174,South Oakland
+4175,Fineview
+4176,Homewood South
+4177,Homewood South
+4178,Point Breeze
+4179,Carrick
+4180,Central Business District
+4181,Homewood South
+4182,Carrick
+4183,Allentown
+4184,Spring Hill-City View
+4185,Brookline
+4186,Shadyside
+4187,North Oakland
+4188,South Side Flats
+4189,Central Lawrenceville
+4190,
+4191,
+4192,South Side Flats
+4193,Mount Washington
+4194,Chateau
+4195,South Side Flats
+4196,South Shore
+4197,Central North Side
+4198,South Side Flats
+4199,Shadyside
+4200,South Side Flats
+4201,Central Business District
+4202,Crawford-Roberts
+4203,Mount Washington
+4204,Carrick
+4205,Carrick
+4206,Carrick
+4207,Central Business District
+4208,Central Lawrenceville
+4209,Elliott
+4210,South Side Flats
+4211,Carrick
+4212,
+4213,Bluff
+4214,Hays
+4215,East Hills
+4216,South Side Flats
+4217,East Liberty
+4218,Crawford-Roberts
+4219,Troy Hill
+4220,Fineview
+4221,Fineview
+4222,Bloomfield
+4223,North Shore
+4224,Squirrel Hill South
+4225,East Hills
+4226,Friendship
+4227,Central Business District
+4228,Central Business District
+4229,Brookline
+4230,North Shore
+4231,Bedford Dwellings
+4232,Beltzhoover
+4233,Shadyside
+4234,Elliott
+4235,Elliott
+4236,
+4237,Crafton Heights
+4238,East Allegheny
+4239,Central Business District
+4240,Homewood North
+4241,Northview Heights
+4242,
+4243,Knoxville
+4244,Mount Washington
+4245,Middle Hill
+4246,
+4247,Allegheny Center
+4248,Allegheny Center
+4249,Allegheny Center
+4250,Allegheny Center
+4251,Carrick
+4252,Bloomfield
+4253,Brookline
+4254,Central Business District
+4255,Elliott
+4256,South Side Flats
+4257,Homewood South
+4258,North Oakland
+4259,South Side Flats
+4260,Elliott
+4261,Hazelwood
+4262,East Allegheny
+4263,East Allegheny
+4264,South Side Slopes
+4265,Shadyside
+4266,Manchester
+4267,Mount Washington
+4268,
+4269,Homewood South
+4270,Allegheny Center
+4271,East Allegheny
+4272,Larimer
+4273,Sheraden
+4274,Knoxville
+4275,South Side Flats
+4276,South Side Flats
+4277,Hazelwood
+4278,Allegheny Center
+4279,Hazelwood
+4280,North Shore
+4281,Brookline
+4282,Central Business District
+4283,Sheraden
+4284,Central Business District
+4285,South Side Flats
+4286,Central Business District
+4287,Central Business District
+4288,Central Business District
+4289,Beechview
+4290,Bluff
+4291,Hazelwood
+4292,Banksville
+4293,Central Business District
+4294,Spring Hill-City View
+4295,North Shore
+4296,Beechview
+4297,South Side Flats
+4298,Larimer
+4299,Mount Washington
+4300,Hazelwood
+4301,Mount Washington
+4302,Homewood North
+4303,Chartiers City
+4304,Perry South
+4305,
+4306,Central Business District
+4307,Central North Side
+4308,Crafton Heights
+4309,Crafton Heights
+4310,Homewood West
+4311,Central Lawrenceville
+4312,Spring Hill-City View
+4313,Overbrook
+4314,Central Lawrenceville
+4315,Central Business District
+4316,North Shore
+4317,North Shore
+4318,Homewood South
+4319,North Shore
+4320,North Shore
+4321,North Shore
+4322,North Shore
+4323,Spring Garden
+4324,Marshall-Shadeland
+4325,Perry North
+4326,Homewood South
+4327,Homewood South
+4328,Banksville
+4329,Carrick
+4330,Carrick
+4331,East Liberty
+4332,West Oakland
+4333,Point Breeze North
+4334,Allegheny Center
+4335,East Allegheny
+4336,Upper Lawrenceville
+4337,
+4338,Sheraden
+4339,Allegheny Center
+4340,Shadyside
+4341,Homewood West
+4342,Bon Air
+4343,Summer Hill
+4344,Shadyside
+4345,Beechview
+4346,Homewood South
+4347,Hazelwood
+4348,Allegheny Center
+4349,Central Business District
+4350,Crawford-Roberts
+4351,Shadyside
+4352,Central North Side
+4353,West Oakland
+4354,
+4355,Sheraden
+4356,Crafton Heights
+4357,Elliott
+4358,Marshall-Shadeland
+4359,Lower Lawrenceville
+4360,Homewood West
+4361,Perry North
+4362,Carrick
+4363,Homewood West
+4364,Carrick
+4365,Squirrel Hill South
+4366,Squirrel Hill South
+4367,Mount Washington
+4368,Homewood North
+4369,Squirrel Hill South
+4370,Squirrel Hill South
+4371,Larimer
+4372,Middle Hill
+4373,Windgap
+4374,Spring Garden
+4375,Spring Garden
+4376,South Side Flats
+4377,South Side Flats
+4378,Polish Hill
+4379,Lincoln-Lemington-Belmar
+4380,Spring Hill-City View
+4381,Central Business District
+4382,Carrick
+4383,East Allegheny
+4384,Central Lawrenceville
+4385,Banksville
+4386,Lower Lawrenceville
+4387,South Side Flats
+4388,Allentown
+4389,Brookline
+4390,Homewood North
+4391,Chateau
+4392,Central Oakland
+4393,Brighton Heights
+4394,Central Business District
+4395,Point Breeze
+4396,East Allegheny
+4397,Fineview
+4398,Crawford-Roberts
+4399,South Side Slopes
+4400,South Side Slopes
+4401,West Oakland
+4402,Beechview
+4403,Elliott
+4404,Central Business District
+4405,Central Oakland
+4406,Central Oakland
+4407,Allentown
+4408,Allentown
+4409,Bedford Dwellings
+4410,Sheraden
+4411,Sheraden
+4412,Perry South
+4413,Marshall-Shadeland
+4414,Hazelwood
+4415,Hazelwood
+4416,Hazelwood
+4417,Hazelwood
+4418,Hazelwood
+4419,Hazelwood
+4420,Greenfield
+4421,Middle Hill
+4422,Outside City
+4423,Perry South
+4424,East Hills
+4425,North Oakland
+4426,Upper Hill
+4427,Upper Hill
+4428,Central Business District
+4429,Allentown
+4430,Larimer
+4431,Beechview
+4432,Spring Hill-City View
+4433,Larimer
+4434,Crafton Heights
+4435,Westwood
+4436,Overbrook
+4437,Mount Washington
+4438,Brighton Heights
+4439,Hazelwood
+4440,Hazelwood
+4441,Homewood West
+4442,Homewood South
+4443,Outside City
+4444,Crafton Heights
+4445,St. Clair
+4446,Banksville
+4447,East Liberty
+4448,Central North Side
+4449,Homewood South
+4450,Allegheny Center
+4451,Allentown
+4452,Knoxville
+4453,East Allegheny
+4454,Spring Garden
+4455,Outside City
+4456,Homewood South
+4457,North Shore
+4458,Homewood North
+4459,Spring Garden
+4460,Spring Garden
+4461,Knoxville
+4462,Homewood West
+4463,Brighton Heights
+4464,Sheraden
+4465,Brighton Heights
+4466,Homewood South
+4467,Hazelwood
+4468,West End
+4469,Central Business District
+4470,Crawford-Roberts
+4471,East Allegheny
+4472,Bloomfield
+4473,Central Business District
+4474,Terrace Village
+4475,Homewood South
+4476,Sheraden
+4477,South Side Flats
+4478,Bloomfield
+4479,Lincoln-Lemington-Belmar
+4480,Beltzhoover
+4481,Carrick
+4482,Sheraden
+4483,Upper Lawrenceville
+4484,Beechview
+4485,Upper Lawrenceville
+4486,Central Business District
+4487,Knoxville
+4488,Allegheny Center
+4489,Allegheny Center
+4490,Knoxville
+4491,Central Business District
+4492,South Side Flats
+4493,South Side Flats
+4494,Esplen
+4495,East Allegheny
+4496,East Allegheny
+4497,Brookline
+4498,Central Business District
+4499,Marshall-Shadeland
+4500,Shadyside
+4501,Central Lawrenceville
+4502,Bedford Dwellings
+4503,Perry North
+4504,East Hills
+4505,South Side Slopes
+4506,North Shore
+4507,
+4508,Central Business District
+4509,South Side Flats
+4510,Carrick
+4511,Carrick
+4512,Brighton Heights
+4513,South Side Flats
+4514,Brookline
+4515,Allentown
+4516,
+4517,Central Lawrenceville
+4518,Central Lawrenceville
+4519,Troy Hill
+4520,Perry North
+4521,Highland Park
+4522,Mount Oliver
+4523,Bloomfield
+4524,East Liberty
+4525,Central Business District
+4526,Middle Hill
+4527,Elliott
+4528,East Hills
+4529,East Hills
+4530,Crawford-Roberts
+4531,Crawford-Roberts
+4532,Elliott
+4533,Crawford-Roberts
+4534,New Homestead
+4535,Crawford-Roberts
+4536,Homewood South
+4537,Hazelwood
+4538,Central Business District
+4539,West Oakland
+4540,Allegheny Center
+4541,Mount Washington
+4542,Bloomfield
+4543,
+4544,East Liberty
+4545,Mount Washington
+4546,
+4547,Carrick
+4548,Allentown
+4549,East Allegheny
+4550,Allentown
+4551,East Hills
+4552,East Liberty
+4553,Fineview
+4554,Elliott
+4555,Squirrel Hill North
+4556,Brookline
+4557,Beechview
+4558,
+4559,
+4560,South Oakland
+4561,Allentown
+4562,Spring Hill-City View
+4563,Carrick
+4564,Homewood North
+4565,Homewood West
+4566,Homewood West
+4567,
+4568,Homewood West
+4569,Shadyside
+4570,Bedford Dwellings
+4571,Marshall-Shadeland
+4572,Allentown
+4573,Central Business District
+4574,Greenfield
+4575,Bluff
+4576,South Side Flats
+4577,Carrick
+4578,Perry South
+4579,Friendship
+4580,
+4581,Spring Hill-City View
+4582,Spring Hill-City View
+4583,Elliott
+4584,Central North Side
+4585,Central North Side
+4586,Bedford Dwellings
+4587,Stanton Heights
+4588,North Shore
+4589,Beltzhoover
+4590,East Allegheny
+4591,Overbrook
+4592,North Shore
+4593,Central Business District
+4594,North Shore
+4595,North Shore
+4596,Spring Garden
+4597,Northview Heights
+4598,Northview Heights
+4599,South Side Slopes
+4600,Central Business District
+4601,Perry South
+4602,South Side Flats
+4603,Sheraden
+4604,South Side Flats
+4605,East Hills
+4606,Elliott
+4607,California-Kirkbride
+4608,Sheraden
+4609,South Side Flats
+4610,South Shore
+4611,Larimer
+4612,East Hills
+4613,Allentown
+4614,Beechview
+4615,Shadyside
+4616,Shadyside
+4617,Point Breeze North
+4618,Windgap
+4619,Windgap
+4620,Windgap
+4621,Central Business District
+4622,Knoxville
+4623,Knoxville
+4624,
+4625,Elliott
+4626,East Liberty
+4627,Middle Hill
+4628,West Oakland
+4629,West Oakland
+4630,West Oakland
+4631,Elliott
+4632,Crawford-Roberts
+4633,East Allegheny
+4634,South Shore
+4635,Knoxville
+4636,Fineview
+4637,Lincoln-Lemington-Belmar
+4638,Garfield
+4639,Homewood West
+4640,
+4641,Allegheny Center
+4642,Overbrook
+4643,Overbrook
+4644,Central Business District
+4645,Strip District
+4646,Homewood South
+4647,Strip District
+4648,East Hills
+4649,East Hills
+4650,East Allegheny
+4651,Strip District
+4652,Garfield
+4653,Highland Park
+4654,Larimer
+4655,Larimer
+4656,Sheraden
+4657,Homewood North
+4658,Central Business District
+4659,Beltzhoover
+4660,Marshall-Shadeland
+4661,Marshall-Shadeland
+4662,Crafton Heights
+4663,Bluff
+4664,Bluff
+4665,Bluff
+4666,Central Business District
+4667,Central Business District
+4668,Central Business District
+4669,Central Business District
+4670,Marshall-Shadeland
+4671,Ridgemont
+4672,Central Business District
+4673,East Hills
+4674,Allentown
+4675,South Side Flats
+4676,East Liberty
+4677,Allegheny Center
+4678,Allegheny Center
+4679,Marshall-Shadeland
+4680,East Allegheny
+4681,Point Breeze North
+4682,Central Business District
+4683,Middle Hill
+4684,Brookline
+4685,Garfield
+4686,Brookline
+4687,Crafton Heights
+4688,Lincoln Place
+4689,Perry South
+4690,Perry South
+4691,East Liberty
+4692,Perry South
+4693,Outside City
+4694,Crafton Heights
+4695,Sheraden
+4696,Central Business District
+4697,Central Business District
+4698,Perry South
+4699,Overbrook
+4700,Manchester
+4701,Bedford Dwellings
+4702,Perry North
+4703,
+4704,Crawford-Roberts
+4705,South Side Flats
+4706,Spring Garden
+4707,Fineview
+4708,Fineview
+4709,Northview Heights
+4710,Northview Heights
+4711,Knoxville
+4712,West Oakland
+4713,Beechview
+4714,Central Oakland
+4715,Garfield
+4716,Hazelwood
+4717,Elliott
+4718,Elliott
+4719,East Liberty
+4720,Homewood South
+4721,East Hills
+4722,East Allegheny
+4723,Hazelwood
+4724,East Liberty
+4725,East Allegheny
+4726,Bon Air
+4727,Bon Air
+4728,Allegheny Center
+4729,Carrick
+4730,Banksville
+4731,South Side Flats
+4732,Middle Hill
+4733,Middle Hill
+4734,
+4735,Bloomfield
+4736,Hazelwood
+4737,Hazelwood
+4738,Carrick
+4739,Hazelwood
+4740,Chateau
+4741,Larimer
+4742,Homewood North
+4743,East Allegheny
+4744,East Allegheny
+4745,Marshall-Shadeland
+4746,Marshall-Shadeland
+4747,Central Business District
+4748,Bedford Dwellings
+4749,Fineview
+4750,Fineview
+4751,Point Breeze North
+4752,East Liberty
+4753,Middle Hill
+4754,Garfield
+4755,South Side Flats
+4756,South Side Flats
+4757,Greenfield
+4758,Central North Side
+4759,Knoxville
+4760,Crafton Heights
+4761,South Side Flats
+4762,West End
+4763,Fairywood
+4764,Marshall-Shadeland
+4765,East Allegheny
+4766,East Hills
+4767,Central Business District
+4768,Terrace Village
+4769,Homewood South
+4770,Upper Lawrenceville
+4771,Homewood South
+4772,Polish Hill
+4773,Bloomfield
+4774,Central Business District
+4775,Terrace Village
+4776,Middle Hill
+4777,Garfield
+4778,Homewood North
+4779,Homewood North
+4780,Larimer
+4781,East Allegheny
+4782,Homewood South
+4783,Homewood South
+4784,South Side Slopes
+4785,South Side Slopes
+4786,Central Business District
+4787,Larimer
+4788,South Side Flats
+4789,Central Lawrenceville
+4790,West Oakland
+4791,Sheraden
+4792,Central Business District
+4793,Upper Lawrenceville
+4794,Central Business District
+4795,Central Business District
+4796,Brighton Heights
+4797,Strip District
+4798,Beechview
+4799,Central Business District
+4800,Homewood North
+4801,Homewood South
+4802,Elliott
+4803,Knoxville
+4804,Fineview
+4805,Shadyside
+4806,
+4807,Allegheny Center
+4808,Arlington
+4809,South Side Slopes
+4810,Lincoln Place
+4811,Lincoln Place
+4812,Knoxville
+4813,Elliott
+4814,South Side Flats
+4815,Sheraden
+4816,South Side Flats
+4817,Sheraden
+4818,East Liberty
+4819,Sheraden
+4820,California-Kirkbride
+4821,Bon Air
+4822,Homewood North
+4823,Central Business District
+4824,Sheraden
+4825,Highland Park
+4826,South Side Slopes
+4827,Allentown
+4828,South Side Slopes
+4829,Homewood South
+4830,Elliott
+4831,Lincoln-Lemington-Belmar
+4832,Lincoln-Lemington-Belmar
+4833,Crafton Heights
+4834,Middle Hill
+4835,Crafton Heights
+4836,Crafton Heights
+4837,East Allegheny
+4838,Bluff
+4839,Fineview
+4840,Bluff
+4841,Bluff
+4842,Crafton Heights
+4843,East Allegheny
+4844,East Allegheny
+4845,Middle Hill
+4846,Middle Hill
+4847,East Allegheny
+4848,Beechview
+4849,Beltzhoover
+4850,Central Business District
+4851,Sheraden
+4852,
+4853,South Side Flats
+4854,South Side Flats
+4855,Polish Hill
+4856,Central Business District
+4857,Larimer
+4858,Central Business District
+4859,Carrick
+4860,Homewood North
+4861,North Shore
+4862,South Side Flats
+4863,
+4864,Central North Side
+4865,Windgap
+4866,Central Oakland
+4867,Bedford Dwellings
+4868,West End
+4869,Brighton Heights
+4870,Central Business District
+4871,Larimer
+4872,Larimer
+4873,Central Business District
+4874,Central Business District
+4875,Troy Hill
+4876,Homewood South
+4877,Central North Side
+4878,Bon Air
+4879,Central North Side
+4880,Brookline
+4881,Terrace Village
+4882,Middle Hill
+4883,Middle Hill
+4884,Marshall-Shadeland
+4885,Marshall-Shadeland
+4886,Crawford-Roberts
+4887,Homewood South
+4888,Bluff
+4889,Elliott
+4890,Larimer
+4891,Crawford-Roberts
+4892,East Allegheny
+4893,Lincoln-Lemington-Belmar
+4894,East Allegheny
+4895,East Allegheny
+4896,Central North Side
+4897,East Allegheny
+4898,South Oakland
+4899,Homewood North
+4900,South Side Flats
+4901,Central Oakland
+4902,Crafton Heights
+4903,Allegheny Center
+4904,East Allegheny
+4905,West Oakland
+4906,East Hills
+4907,Elliott
+4908,Carrick
+4909,Banksville
+4910,Banksville
+4911,Banksville
+4912,North Oakland
+4913,Beltzhoover
+4914,Fineview
+4915,South Side Slopes
+4916,Central Oakland
+4917,Allegheny Center
+4918,Central Oakland
+4919,Spring Garden
+4920,Central Business District
+4921,Central Business District
+4922,Carrick
+4923,Central Business District
+4924,Carrick
+4925,Perry South
+4926,Central Business District
+4927,Central Lawrenceville
+4928,
+4929,Homewood North
+4930,North Shore
+4931,Brookline
+4932,North Shore
+4933,Sheraden
+4934,North Shore
+4935,North Shore
+4936,Spring Hill-City View
+4937,East Hills
+4938,Bluff
+4939,Bluff
+4940,South Side Flats
+4941,Lower Lawrenceville
+4942,Fairywood
+4943,Fairywood
+4944,Perry North
+4945,Perry North
+4946,Perry North
+4947,Perry North
+4948,Point Breeze North
+4949,East Allegheny
+4950,East Allegheny
+4951,East Allegheny
+4952,East Allegheny
+4953,East Allegheny
+4954,
+4955,Knoxville
+4956,Central Lawrenceville
+4957,Central North Side
+4958,Middle Hill
+4959,Windgap
+4960,Point Breeze North
+4961,Fineview
+4962,East Allegheny
+4963,Outside City
+4964,Outside City
+4965,Hazelwood
+4966,Hazelwood
+4967,Homewood West
+4968,Friendship
+4969,Friendship
+4970,Hazelwood
+4971,East Allegheny
+4972,Lincoln-Lemington-Belmar
+4973,Strip District
+4974,Sheraden
+4975,Sheraden
+4976,Fineview
+4977,Carrick
+4978,Bluff
+4979,Bluff
+4980,Crawford-Roberts
+4981,Crawford-Roberts
+4982,Homewood North
+4983,Sheraden
+4984,
+4985,
+4986,East Allegheny
+4987,Carrick
+4988,Hazelwood
+4989,Homewood South
+4990,Northview Heights
+4991,Carrick
+4992,East Liberty
+4993,Central Business District
+4994,Central Business District
+4995,Brighton Heights
+4996,Homewood North
+4997,Homewood South
+4998,Point Breeze North
+4999,Polish Hill
+5000,South Side Flats
+5001,Spring Hill-City View
+5002,Hays
+5003,Middle Hill
+5004,Elliott
+5005,Beechview
+5006,Perry North
+5007,Central Oakland
+5008,Allentown
+5009,Homewood South
+5010,Perry South
+5011,Duquesne Heights
+5012,Larimer
+5013,Knoxville
+5014,Upper Hill
+5015,Strip District
+5016,Hazelwood
+5017,Hazelwood
+5018,Central Business District
+5019,Central Business District
+5020,Beechview
+5021,Beechview
+5022,Overbrook
+5023,Brookline
+5024,Central Business District
+5025,Central Business District
+5026,Allegheny Center
+5027,Knoxville
+5028,Knoxville
+5029,Highland Park
+5030,Central Lawrenceville
+5031,North Shore
+5032,South Side Flats
+5033,Larimer
+5034,Larimer
+5035,Greenfield
+5036,East Allegheny
+5037,Duquesne Heights
+5038,Upper Lawrenceville
+5039,Carrick
+5040,Homewood South
+5041,Crawford-Roberts
+5042,Greenfield
+5043,Bluff
+5044,New Homestead
+5045,Bluff
+5046,South Side Flats
+5047,Overbrook
+5048,Bloomfield
+5049,Homewood South
+5050,South Oakland
+5051,North Shore
+5052,North Oakland
+5053,Carrick
+5054,Central Business District
+5055,Bluff
+5056,Bluff
+5057,Bluff
+5058,Carrick
+5059,Crafton Heights
+5060,South Side Flats
+5061,South Side Flats
+5062,Westwood
+5063,Highland Park
+5064,Highland Park
+5065,East Liberty
+5066,Northview Heights
+5067,Northview Heights
+5068,Allentown
+5069,Beechview
+5070,Beechview
+5071,Bloomfield
+5072,Stanton Heights
+5073,Polish Hill
+5074,Beltzhoover
+5075,East Allegheny
+5076,Central North Side
+5077,West Oakland
+5078,South Side Flats
+5079,
+5080,Allegheny West
+5081,Bloomfield
+5082,Bloomfield
+5083,Larimer
+5084,Elliott
+5085,Shadyside
+5086,South Side Slopes
+5087,South Side Slopes
+5088,Central North Side
+5089,Spring Hill-City View
+5090,Brookline
+5091,Elliott
+5092,South Side Flats
+5093,East Liberty
+5094,South Side Flats
+5095,Lincoln-Lemington-Belmar
+5096,Perry South
+5097,Allegheny West
+5098,Middle Hill
+5099,Bluff
+5100,East Hills
+5101,South Side Flats
+5102,Shadyside
+5103,Beechview
+5104,Homewood North
+5105,
+5106,South Side Flats
+5107,Allentown
+5108,East Hills
+5109,
+5110,
+5111,Bluff
+5112,Central Oakland
+5113,South Side Flats
+5114,South Side Flats
+5115,Homewood South
+5116,South Side Flats
+5117,East Liberty
+5118,Bluff
+5119,Shadyside
+5120,Elliott
+5121,Perry South
+5122,Beechview
+5123,Hays
+5124,Hazelwood
+5125,Homewood North
+5126,Central Oakland
+5127,Knoxville
+5128,Bloomfield
+5129,Point Breeze North
+5130,Garfield
+5131,North Oakland
+5132,
+5133,Homewood South
+5134,South Side Flats
+5135,East Liberty
+5136,Allegheny Center
+5137,Allegheny Center
+5138,East Allegheny
+5139,Perry South
+5140,Brighton Heights
+5141,Carrick
+5142,Homewood South
+5143,South Oakland
+5144,Perry South
+5145,Lincoln-Lemington-Belmar
+5146,Brookline
+5147,Upper Hill
+5148,Hazelwood
+5149,Ridgemont
+5150,Central Business District
+5151,Central Business District
+5152,Central Business District
+5153,Sheraden
+5154,Sheraden
+5155,Sheraden
+5156,Beechview
+5157,Spring Garden
+5158,South Side Flats
+5159,East Allegheny
+5160,Knoxville
+5161,Hazelwood
+5162,Bluff
+5163,
+5164,Perry North
+5165,Mount Oliver
+5166,Marshall-Shadeland
+5167,Larimer
+5168,Knoxville
+5169,Knoxville
+5170,
+5171,Knoxville
+5172,Sheraden
+5173,Knoxville
+5174,Knoxville
+5175,Marshall-Shadeland
+5176,Marshall-Shadeland
+5177,Marshall-Shadeland
+5178,Marshall-Shadeland
+5179,Marshall-Shadeland
+5180,Carrick
+5181,Carrick
+5182,Homewood South
+5183,Bedford Dwellings
+5184,Crafton Heights
+5185,Fineview
+5186,Garfield
+5187,Crafton Heights
+5188,East Hills
+5189,Lincoln-Lemington-Belmar
+5190,Hazelwood
+5191,Central North Side
+5192,Allegheny Center
+5193,Carrick
+5194,
+5195,Bluff
+5196,West End
+5197,Sheraden
+5198,Homewood South
+5199,Crawford-Roberts
+5200,Spring Hill-City View
+5201,Spring Hill-City View
+5202,Carrick
+5203,Marshall-Shadeland
+5204,Marshall-Shadeland
+5205,
+5206,Homewood West
+5207,Homewood West
+5208,Lincoln-Lemington-Belmar
+5209,East Liberty
+5210,Mount Oliver
+5211,Mount Oliver
+5212,Perry North
+5213,Perry North
+5214,Perry North
+5215,Spring Hill-City View
+5216,Homewood North
+5217,Central Business District
+5218,Sheraden
+5219,Homewood North
+5220,Central Business District
+5221,Manchester
+5222,Bloomfield
+5223,Sheraden
+5224,East Liberty
+5225,East Allegheny
+5226,Homewood South
+5227,Garfield
+5228,Brookline
+5229,South Side Flats
+5230,Larimer
+5231,Carrick
+5232,South Side Flats
+5233,South Side Flats
+5234,Bluff
+5235,Northview Heights
+5236,Beechview
+5237,Knoxville
+5238,Marshall-Shadeland
+5239,South Side Flats
+5240,South Side Slopes
+5241,Upper Hill
+5242,Upper Hill
+5243,South Side Flats
+5244,North Shore
+5245,Chateau
+5246,Perry South
+5247,Greenfield
+5248,Carrick
+5249,Northview Heights
+5250,Hazelwood
+5251,Brookline
+5252,Outside City
+5253,South Side Slopes
+5254,South Side Flats
+5255,Bluff
+5256,Homewood South
+5257,Strip District
+5258,East Allegheny
+5259,Mount Washington
+5260,South Side Flats
+5261,Carrick
+5262,Elliott
+5263,Polish Hill
+5264,Brookline
+5265,Bluff
+5266,Duquesne Heights
+5267,Beechview
+5268,Banksville
+5269,Knoxville
+5270,Central Business District
+5271,Central Business District
+5272,Perry North
+5273,Perry North
+5274,Perry North
+5275,Overbrook
+5276,Homewood South
+5277,Carrick
+5278,Lincoln-Lemington-Belmar
+5279,Brookline
+5280,Garfield
+5281,South Side Slopes
+5282,Strip District
+5283,Brighton Heights
+5284,Fineview
+5285,Terrace Village
+5286,Perry South
+5287,South Side Slopes
+5288,Marshall-Shadeland
+5289,Overbrook
+5290,Bloomfield
+5291,Duquesne Heights
+5292,Hazelwood
+5293,Hazelwood
+5294,Terrace Village
+5295,South Shore
+5296,Middle Hill
+5297,Middle Hill
+5298,Mount Washington
+5299,Beechview
+5300,Chateau
+5301,Allegheny West
+5302,
+5303,Knoxville
+5304,East Liberty
+5305,
+5306,Westwood
+5307,Summer Hill
+5308,Crawford-Roberts
+5309,Carrick
+5310,North Oakland
+5311,North Oakland
+5312,Knoxville
+5313,South Side Flats
+5314,Beechview
+5315,Perry North
+5316,Central Business District
+5317,Marshall-Shadeland
+5318,Point Breeze
+5319,Brookline
+5320,South Side Slopes
+5321,Perry North
+5322,South Oakland
+5323,North Shore
+5324,Marshall-Shadeland
+5325,Larimer
+5326,Elliott
+5327,Hazelwood
+5328,Hazelwood
+5329,Hazelwood
+5330,Hazelwood
+5331,Perry South
+5332,Beechview
+5333,Sheraden
+5334,Squirrel Hill South
+5335,Brighton Heights
+5336,Brighton Heights
+5337,Sheraden
+5338,Sheraden
+5339,Marshall-Shadeland
+5340,South Side Flats
+5341,Perry North
+5342,Bluff
+5343,Bluff
+5344,Beechview
+5345,Hays
+5346,Hays
+5347,Brookline
+5348,Manchester
+5349,Brookline
+5350,Homewood North
+5351,Regent Square
+5352,Carrick
+5353,Marshall-Shadeland
+5354,Marshall-Shadeland
+5355,
+5356,Central Oakland
+5357,
+5358,Beechview
+5359,Marshall-Shadeland
+5360,Beechview
+5361,Beechview
+5362,
+5363,South Side Flats
+5364,Hazelwood
+5365,Carrick
+5366,East Liberty
+5367,Homewood South
+5368,Fineview
+5369,Fineview
+5370,West Oakland
+5371,Brighton Heights
+5372,Carrick
+5373,Central Business District
+5374,South Side Flats
+5375,Sheraden
+5376,Sheraden
+5377,Strip District
+5378,Brighton Heights
+5379,Sheraden
+5380,Terrace Village
+5381,Terrace Village
+5382,Terrace Village
+5383,Lincoln-Lemington-Belmar
+5384,Knoxville
+5385,East Allegheny
+5386,Shadyside
+5387,East Allegheny
+5388,Homewood West
+5389,Marshall-Shadeland
+5390,Sheraden
+5391,South Side Slopes
+5392,Crawford-Roberts
+5393,South Side Flats
+5394,Esplen
+5395,East Hills
+5396,Squirrel Hill South
+5397,North Oakland
+5398,South Side Flats
+5399,Bluff
+5400,Bluff
+5401,Bluff
+5402,Mount Washington
+5403,Perry South
+5404,Bedford Dwellings
+5405,Bedford Dwellings
+5406,South Side Flats
+5407,Troy Hill
+5408,Allentown
+5409,Fineview
+5410,South Side Flats
+5411,Sheraden
+5412,East Hills
+5413,Overbrook
+5414,Chateau
+5415,Crawford-Roberts
+5416,Bloomfield
+5417,Sheraden
+5418,South Side Flats
+5419,South Side Flats
+5420,Homewood South
+5421,Central Oakland
+5422,Brookline
+5423,Hazelwood
+5424,Brighton Heights
+5425,South Side Flats
+5426,Bluff
+5427,Windgap
+5428,Shadyside
+5429,Shadyside
+5430,East Liberty
+5431,Marshall-Shadeland
+5432,Marshall-Shadeland
+5433,Marshall-Shadeland
+5434,Point Breeze
+5435,East Allegheny
+5436,Allentown
+5437,East Liberty
+5438,Central Business District
+5439,Central Business District
+5440,Crafton Heights
+5441,Homewood North
+5442,Perry South
+5443,Strip District
+5444,South Shore
+5445,South Side Flats
+5446,Central Oakland
+5447,North Shore
+5448,North Shore
+5449,North Shore
+5450,South Side Flats
+5451,Greenfield
+5452,Greenfield
+5453,Carrick
+5454,South Side Flats
+5455,
+5456,Central Business District
+5457,North Shore
+5458,Mount Washington
+5459,East Liberty
+5460,East Liberty
+5461,Middle Hill
+5462,South Side Slopes
+5463,Marshall-Shadeland
+5464,Homewood South
+5465,Sheraden
+5466,Hazelwood
+5467,Brookline
+5468,Central Business District
+5469,
+5470,
+5471,Homewood West
+5472,Beechview
+5473,Bluff
+5474,Garfield
+5475,Beechview
+5476,West Oakland
+5477,Strip District
+5478,Brookline
+5479,Allegheny Center
+5480,Elliott
+5481,Beechview
+5482,Homewood South
+5483,Bluff
+5484,Brookline
+5485,South Side Slopes
+5486,South Side Flats
+5487,Homewood North
+5488,
+5489,Larimer
+5490,Larimer
+5491,Sheraden
+5492,Mount Washington
+5493,Banksville
+5494,Hazelwood
+5495,Arlington
+5496,Carrick
+5497,Bloomfield
+5498,Marshall-Shadeland
+5499,South Side Flats
+5500,Beltzhoover
+5501,East Liberty
+5502,East Allegheny
+5503,Marshall-Shadeland
+5504,West Oakland
+5505,Bluff
+5506,South Side Flats
+5507,South Side Flats
+5508,South Side Flats
+5509,East Liberty
+5510,Carrick
+5511,Beechview
+5512,Elliott
+5513,North Shore
+5514,Brookline
+5515,Middle Hill
+5516,Outside City
+5517,Middle Hill
+5518,Carrick
+5519,Carrick
+5520,Chateau
+5521,Homewood North
+5522,Homewood North
+5523,Central Lawrenceville
+5524,Mount Washington
+5525,East Liberty
+5526,Banksville
+5527,Brookline
+5528,Carrick
+5529,Allentown
+5530,Homewood South
+5531,Homewood South
+5532,Bluff
+5533,Central Oakland
+5534,East Allegheny
+5535,Point Breeze
+5536,Troy Hill
+5537,South Side Flats
+5538,South Side Flats
+5539,East Liberty
+5540,Carrick
+5541,South Side Flats
+5542,Allentown
+5543,Outside City
+5544,Central North Side
+5545,Central North Side
+5546,Bluff
+5547,Homewood South
+5548,Central Lawrenceville
+5549,Friendship
+5550,Bluff
+5551,Allegheny Center
+5552,Bluff
+5553,Beltzhoover
+5554,Banksville
+5555,Central North Side
+5556,South Shore
+5557,Homewood South
+5558,Point Breeze North
+5559,South Side Flats
+5560,Fineview
+5561,Beechview
+5562,Crawford-Roberts
+5563,Middle Hill
+5564,Middle Hill
+5565,Middle Hill
+5566,Carrick
+5567,Carrick
+5568,Central North Side
+5569,Troy Hill
+5570,Brookline
+5571,Crawford-Roberts
+5572,Knoxville
+5573,Central Business District
+5574,Carrick
+5575,Beechview
+5576,Beltzhoover
+5577,Homewood South
+5578,Knoxville
+5579,Central Oakland
+5580,California-Kirkbride
+5581,Banksville
+5582,Central Business District
+5583,Brighton Heights
+5584,Brighton Heights
+5585,North Oakland
+5586,Polish Hill
+5587,Central Business District
+5588,South Side Slopes
+5589,Strip District
+5590,Central Business District
+5591,South Oakland
+5592,Marshall-Shadeland
+5593,East Allegheny
+5594,East Allegheny
+5595,Esplen
+5596,Esplen
+5597,Central Business District
+5598,Northview Heights
+5599,Allentown
+5600,Central Business District
+5601,Bluff
+5602,Central Business District
+5603,Middle Hill
+5604,East Allegheny
+5605,Crafton Heights
+5606,Knoxville
+5607,Homewood South
+5608,Larimer
+5609,Central Business District
+5610,Polish Hill
+5611,East Liberty
+5612,East Hills
+5613,Brighton Heights
+5614,
+5615,Lincoln-Lemington-Belmar
+5616,Allegheny Center
+5617,Homewood South
+5618,Beechview
+5619,Shadyside
+5620,Marshall-Shadeland
+5621,Beltzhoover
+5622,Carrick
+5623,Homewood North
+5624,Banksville
+5625,Central Lawrenceville
+5626,Mount Washington
+5627,Mount Washington
+5628,South Side Flats
+5629,West End
+5630,Central Business District
+5631,Hazelwood
+5632,Homewood North
+5633,South Side Flats
+5634,Allegheny Center
+5635,South Side Flats
+5636,Squirrel Hill South
+5637,North Oakland
+5638,North Oakland
+5639,South Oakland
+5640,South Oakland
+5641,North Oakland
+5642,South Side Flats
+5643,Highland Park
+5644,Highland Park
+5645,Highland Park
+5646,Homewood South
+5647,Arlington
+5648,Bedford Dwellings
+5649,Mount Washington
+5650,Westwood
+5651,Central Business District
+5652,Hazelwood
+5653,Perry North
+5654,Shadyside
+5655,Homewood North
+5656,Homewood North
+5657,Polish Hill
+5658,Central Business District
+5659,Arlington
+5660,West Oakland
+5661,Spring Hill-City View
+5662,
+5663,East Allegheny
+5664,Crawford-Roberts
+5665,Westwood
+5666,Squirrel Hill South
+5667,Central Business District
+5668,Carrick
+5669,Carrick
+5670,Spring Hill-City View
+5671,East Allegheny
+5672,Upper Hill
+5673,East Allegheny
+5674,Central Business District
+5675,Homewood West
+5676,Shadyside
+5677,Homewood North
+5678,East Allegheny
+5679,Brighton Heights
+5680,East Allegheny
+5681,East Allegheny
+5682,Knoxville
+5683,Hazelwood
+5684,East Allegheny
+5685,East Allegheny
+5686,Brighton Heights
+5687,East Hills
+5688,Central Business District
+5689,Central Business District
+5690,Marshall-Shadeland
+5691,South Side Flats
+5692,East Liberty
+5693,South Side Flats
+5694,Garfield
+5695,Strip District
+5696,Strip District
+5697,
+5698,Homewood West
+5699,Brighton Heights
+5700,Homewood South
+5701,Overbrook
+5702,Middle Hill
+5703,Sheraden
+5704,Strip District
+5705,Carrick
+5706,Crawford-Roberts
+5707,Sheraden
+5708,Mount Washington
+5709,Sheraden
+5710,Marshall-Shadeland
+5711,East Hills
+5712,East Liberty
+5713,Upper Lawrenceville
+5714,Duquesne Heights
+5715,Hazelwood
+5716,Marshall-Shadeland
+5717,Beltzhoover
+5718,Morningside
+5719,Morningside
+5720,Brighton Heights
+5721,Outside City
+5722,Homewood South
+5723,Strip District
+5724,South Side Flats
+5725,Troy Hill
+5726,Central Business District
+5727,South Side Slopes
+5728,Outside City
+5729,Bloomfield
+5730,Perry South
+5731,Shadyside
+5732,Central Business District
+5733,Marshall-Shadeland
+5734,Hazelwood
+5735,Hazelwood
+5736,Beltzhoover
+5737,East Liberty
+5738,Lincoln-Lemington-Belmar
+5739,Brookline
+5740,West Oakland
+5741,East Allegheny
+5742,East Allegheny
+5743,Chateau
+5744,South Shore
+5745,Larimer
+5746,Central Oakland
+5747,Central Lawrenceville
+5748,Manchester
+5749,North Shore
+5750,Perry South
+5751,Allegheny Center
+5752,Crawford-Roberts
+5753,Homewood North
+5754,Allentown
+5755,Lower Lawrenceville
+5756,South Side Flats
+5757,South Side Flats
+5758,South Oakland
+5759,California-Kirkbride
+5760,Lincoln-Lemington-Belmar
+5761,Carrick
+5762,Lincoln-Lemington-Belmar
+5763,Central Business District
+5764,Brighton Heights
+5765,South Side Flats
+5766,South Shore
+5767,Elliott
+5768,Bedford Dwellings
+5769,Mount Washington
+5770,Sheraden
+5771,Mount Washington
+5772,South Side Flats
+5773,Lincoln-Lemington-Belmar
+5774,South Side Flats
+5775,Upper Hill
+5776,Shadyside
+5777,
+5778,Homewood South
+5779,Banksville
+5780,Homewood North
+5781,
+5782,East Liberty
+5783,East Liberty
+5784,Sheraden
+5785,Sheraden
+5786,Sheraden
+5787,
+5788,Glen Hazel
+5789,Central Business District
+5790,Brighton Heights
+5791,Central Oakland
+5792,Squirrel Hill South
+5793,Hazelwood
+5794,Beechview
+5795,Central North Side
+5796,Allentown
+5797,East Allegheny
+5798,Carrick
+5799,Brighton Heights
+5800,Carrick
+5801,Beechview
+5802,Bloomfield
+5803,Squirrel Hill North
+5804,Squirrel Hill North
+5805,Squirrel Hill North
+5806,Beltzhoover
+5807,Friendship
+5808,East Hills
+5809,Homewood South
+5810,Spring Hill-City View
+5811,Allegheny Center
+5812,Carrick
+5813,West End
+5814,Lincoln-Lemington-Belmar
+5815,Beltzhoover
+5816,Beltzhoover
+5817,Central Business District
+5818,East Allegheny
+5819,Marshall-Shadeland
+5820,Beechview
+5821,Beechview
+5822,Central North Side
+5823,North Oakland
+5824,Homewood South
+5825,Crawford-Roberts
+5826,Bedford Dwellings
+5827,South Side Flats
+5828,Squirrel Hill South
+5829,Terrace Village
+5830,Sheraden
+5831,East Allegheny
+5832,Northview Heights
+5833,Bluff
+5834,Bloomfield
+5835,Carrick
+5836,Central North Side
+5837,Upper Hill
+5838,Squirrel Hill North
+5839,Morningside
+5840,Highland Park
+5841,Glen Hazel
+5842,Central Business District
+5843,Homewood South
+5844,Sheraden
+5845,East Allegheny
+5846,Mount Washington
+5847,Mount Washington
+5848,Point Breeze North
+5849,Beechview
+5850,Spring Hill-City View
+5851,Mount Washington
+5852,Bluff
+5853,Lincoln-Lemington-Belmar
+5854,Bluff
+5855,Central Business District
+5856,East Hills
+5857,South Side Flats
+5858,Lincoln-Lemington-Belmar
+5859,Mount Washington
+5860,Beechview
+5861,Middle Hill
+5862,Marshall-Shadeland
+5863,Homewood North
+5864,Crawford-Roberts
+5865,
+5866,Perry South
+5867,Upper Hill
+5868,
+5869,
+5870,Brookline
+5871,Brighton Heights
+5872,East Liberty
+5873,East Liberty
+5874,Manchester
+5875,
+5876,Garfield
+5877,Central Business District
+5878,Middle Hill
+5879,North Shore
+5880,North Shore
+5881,Hazelwood
+5882,North Shore
+5883,North Shore
+5884,Shadyside
+5885,East Allegheny
+5886,Carrick
+5887,South Side Flats
+5888,South Side Flats
+5889,Homewood North
+5890,Shadyside
+5891,Shadyside
+5892,Larimer
+5893,South Side Flats
+5894,South Side Flats
+5895,South Side Flats
+5896,South Side Flats
+5897,Brighton Heights
+5898,
+5899,South Shore
+5900,Homewood South
+5901,East Liberty
+5902,Carrick
+5903,Bloomfield
+5904,Bloomfield
+5905,East Allegheny
+5906,Terrace Village
+5907,South Side Flats
+5908,Bluff
+5909,Homewood North
+5910,South Side Flats
+5911,Manchester
+5912,Crawford-Roberts
+5913,Crawford-Roberts
+5914,Upper Hill
+5915,Greenfield
+5916,South Side Flats
+5917,Mount Washington
+5918,Marshall-Shadeland
+5919,Beechview
+5920,Homewood South
+5921,Homewood South
+5922,East Allegheny
+5923,Marshall-Shadeland
+5924,Homewood North
+5925,Homewood West
+5926,
+5927,Central Business District
+5928,Squirrel Hill South
+5929,Garfield
+5930,
+5931,East Hills
+5932,East Liberty
+5933,South Side Flats
+5934,South Side Flats
+5935,South Side Flats
+5936,South Side Flats
+5937,Carrick
+5938,Beechview
+5939,Northview Heights
+5940,Northview Heights
+5941,Northview Heights
+5942,Perry North
+5943,Homewood South
+5944,North Shore
+5945,Central Business District
+5946,Homewood West
+5947,Central Business District
+5948,Beechview
+5949,Homewood South
+5950,North Shore
+5951,Overbrook
+5952,Marshall-Shadeland
+5953,Carrick
+5954,Squirrel Hill South
+5955,Central Business District
+5956,Middle Hill
+5957,Perry North
+5958,South Shore
+5959,Troy Hill
+5960,Central Business District
+5961,Homewood North
+5962,Central Business District
+5963,Crawford-Roberts
+5964,Beltzhoover
+5965,East Allegheny
+5966,Middle Hill
+5967,Crafton Heights
+5968,East Liberty
+5969,
+5970,Carrick
+5971,Carrick
+5972,South Side Flats
+5973,Carrick
+5974,Carrick
+5975,Elliott
+5976,Homewood North
+5977,Homewood North
+5978,Homewood West
+5979,
+5980,Brighton Heights
+5981,
+5982,Central North Side
+5983,Crafton Heights
+5984,Perry South
+5985,Point Breeze
+5986,Lincoln-Lemington-Belmar
+5987,Brookline
+5988,Carrick
+5989,Marshall-Shadeland
+5990,East Hills
+5991,Knoxville
+5992,Bluff
+5993,Brighton Heights
+5994,Central Lawrenceville
+5995,Bloomfield
+5996,South Side Flats
+5997,Bluff
+5998,Elliott
+5999,Highland Park
+6000,Arlington
+6001,South Side Flats
+6002,Middle Hill
+6003,Glen Hazel
+6004,Northview Heights
+6005,Central Business District
+6006,East Allegheny
+6007,Chateau
+6008,Fineview
+6009,North Shore
+6010,Middle Hill
+6011,Highland Park
+6012,Lincoln-Lemington-Belmar
+6013,Lincoln-Lemington-Belmar
+6014,East Allegheny
+6015,East Allegheny
+6016,Lincoln Place
+6017,Crawford-Roberts
+6018,Central North Side
+6019,Spring Hill-City View
+6020,Fineview
+6021,South Side Flats
+6022,South Side Flats
+6023,Allentown
+6024,Mount Washington
+6025,Beechview
+6026,Point Breeze
+6027,Greenfield
+6028,Homewood West
+6029,Homewood West
+6030,
+6031,Allegheny Center
+6032,Greenfield
+6033,Squirrel Hill South
+6034,Squirrel Hill South
+6035,Carrick
+6036,Lincoln Place
+6037,Squirrel Hill South
+6038,Squirrel Hill South
+6039,South Side Flats
+6040,Highland Park
+6041,
+6042,
+6043,North Oakland
+6044,Mount Washington
+6045,Mount Washington
+6046,Carrick
+6047,Central Business District
+6048,Bluff
+6049,Bluff
+6050,Bluff
+6051,Crafton Heights
+6052,Bluff
+6053,Squirrel Hill South
+6054,Hazelwood
+6055,Middle Hill
+6056,Brighton Heights
+6057,Strip District
+6058,Strip District
+6059,Crafton Heights
+6060,Central Oakland
+6061,Middle Hill
+6062,Lincoln Place
+6063,Middle Hill
+6064,Middle Hill
+6065,Central North Side
+6066,Spring Hill-City View
+6067,Spring Hill-City View
+6068,Brighton Heights
+6069,Bedford Dwellings
+6070,Brighton Heights
+6071,Marshall-Shadeland
+6072,Crawford-Roberts
+6073,East Liberty
+6074,Homewood South
+6075,Elliott
+6076,East Allegheny
+6077,Shadyside
+6078,Outside City
+6079,Central Business District
+6080,South Side Flats
+6081,Allegheny Center
+6082,Windgap
+6083,Windgap
+6084,Lincoln-Lemington-Belmar
+6085,East Allegheny
+6086,Strip District
+6087,
+6088,Homewood South
+6089,Middle Hill
+6090,Middle Hill
+6091,Middle Hill
+6092,
+6093,Homewood South
+6094,
+6095,Homewood West
+6096,Greenfield
+6097,Outside State
+6098,Beltzhoover
+6099,Beltzhoover
+6100,Beltzhoover
+6101,Knoxville
+6102,Hazelwood
+6103,Central Lawrenceville
+6104,Garfield
+6105,Perry South
+6106,Central Oakland
+6107,Central Business District
+6108,Beechview
+6109,East Allegheny
+6110,Central Business District
+6111,Terrace Village
+6112,West Oakland
+6113,West Oakland
+6114,Brighton Heights
+6115,Arlington
+6116,Spring Hill-City View
+6117,Beltzhoover
+6118,Brighton Heights
+6119,Homewood North
+6120,Central Oakland
+6121,Fineview
+6122,Shadyside
+6123,Beechview
+6124,Beechview
+6125,South Shore
+6126,Central North Side
+6127,Upper Lawrenceville
+6128,Lincoln-Lemington-Belmar
+6129,Brookline
+6130,South Side Flats
+6131,Middle Hill
+6132,Highland Park
+6133,South Side Flats
+6134,Brookline
+6135,Brookline
+6136,Homewood North
+6137,Crawford-Roberts
+6138,Carrick
+6139,South Side Flats
+6140,Sheraden
+6141,East Hills
+6142,Shadyside
+6143,Central Business District
+6144,Central Business District
+6145,Central Business District
+6146,Central Business District
+6147,Brighton Heights
+6148,Central Lawrenceville
+6149,Beechview
+6150,Bluff
+6151,Sheraden
+6152,South Side Flats
+6153,South Side Flats
+6154,South Side Flats
+6155,Morningside
+6156,Bluff
+6157,Knoxville
+6158,Central Business District
+6159,Central Business District
+6160,Hazelwood
+6161,Crawford-Roberts
+6162,East Liberty
+6163,Banksville
+6164,Banksville
+6165,East Allegheny
+6166,Marshall-Shadeland
+6167,West Oakland
+6168,Westwood
+6169,East Liberty
+6170,Beltzhoover
+6171,Upper Lawrenceville
+6172,Allentown
+6173,Central Business District
+6174,Bluff
+6175,South Side Flats
+6176,Brookline
+6177,Mount Washington
+6178,Upper Lawrenceville
+6179,Allegheny Center
+6180,Homewood South
+6181,Middle Hill
+6182,Middle Hill
+6183,Carrick
+6184,Beechview
+6185,Homewood South
+6186,Beechview
+6187,Squirrel Hill South
+6188,Larimer
+6189,Homewood North
+6190,Lincoln-Lemington-Belmar
+6191,Homewood West
+6192,Outside City
+6193,Central Business District
+6194,Brighton Heights
+6195,Allentown
+6196,North Shore
+6197,North Shore
+6198,Homewood South
+6199,Homewood South
+6200,Homewood South
+6201,South Side Flats
+6202,Larimer
+6203,Marshall-Shadeland
+6204,Elliott
+6205,Homewood North
+6206,Stanton Heights
+6207,Chateau
+6208,Allentown
+6209,Allegheny Center
+6210,Central Business District
+6211,Upper Lawrenceville
+6212,Knoxville
+6213,Upper Lawrenceville
+6214,Crawford-Roberts
+6215,Hazelwood
+6216,Perry North
+6217,South Oakland
+6218,South Side Flats
+6219,Glen Hazel
+6220,Central Business District
+6221,Sheraden
+6222,South Side Flats
+6223,Bluff
+6224,Brighton Heights
+6225,Bon Air
+6226,Garfield
+6227,East Liberty
+6228,Spring Hill-City View
+6229,Point Breeze North
+6230,Lincoln Place
+6231,East Liberty
+6232,Allentown
+6233,Allentown
+6234,Bluff
+6235,Beechview
+6236,
+6237,Bloomfield
+6238,Bloomfield
+6239,Perry South
+6240,Central Business District
+6241,South Side Flats
+6242,Central Business District
+6243,South Side Flats
+6244,Point Breeze
+6245,East Allegheny
+6246,Crafton Heights
+6247,Spring Hill-City View
+6248,Central Business District
+6249,Homewood South
+6250,Hazelwood
+6251,Lincoln-Lemington-Belmar
+6252,Perry South
+6253,Central Business District
+6254,Bloomfield
+6255,Central Lawrenceville
+6256,Central Oakland
+6257,Homewood North
+6258,Bloomfield
+6259,Hazelwood
+6260,Hazelwood
+6261,Central Business District
+6262,Arlington
+6263,North Shore
+6264,Lincoln-Lemington-Belmar
+6265,Crafton Heights
+6266,Mount Washington
+6267,Morningside
+6268,Beltzhoover
+6269,South Side Flats
+6270,Bedford Dwellings
+6271,
+6272,Central Lawrenceville
+6273,Bluff
+6274,Squirrel Hill South
+6275,East Allegheny
+6276,Central North Side
+6277,Stanton Heights
+6278,Stanton Heights
+6279,
+6280,Brighton Heights
+6281,Brighton Heights
+6282,Sheraden
+6283,Sheraden
+6284,Brighton Heights
+6285,Brookline
+6286,Brookline
+6287,Hazelwood
+6288,Central Business District
+6289,Perry South
+6290,Elliott
+6291,Central Business District
+6292,Central Business District
+6293,Central Business District
+6294,Sheraden
+6295,Sheraden
+6296,Sheraden
+6297,Sheraden
+6298,Esplen
+6299,Esplen
+6300,Crawford-Roberts
+6301,Crawford-Roberts
+6302,Larimer
+6303,Homewood North
+6304,Spring Hill-City View
+6305,Central Business District
+6306,East Allegheny
+6307,Outside City
+6308,Swisshelm Park
+6309,Homewood South
+6310,South Side Flats
+6311,East Allegheny
+6312,Garfield
+6313,Greenfield
+6314,Bluff
+6315,Friendship
+6316,Knoxville
+6317,South Side Flats
+6318,Windgap
+6319,Mount Oliver
+6320,
+6321,Oakwood
+6322,South Oakland
+6323,Garfield
+6324,Beechview
+6325,Bluff
+6326,Crawford-Roberts
+6327,North Shore
+6328,Brighton Heights
+6329,East Allegheny
+6330,Hays
+6331,Arlington Heights
+6332,Spring Garden
+6333,Allentown
+6334,Greenfield
+6335,Bluff
+6336,Central Business District
+6337,Carrick
+6338,Beechview
+6339,Central Business District
+6340,Beechview
+6341,South Side Flats
+6342,Manchester
+6343,Larimer
+6344,South Side Flats
+6345,South Side Flats
+6346,Chateau
+6347,Northview Heights
+6348,
+6349,Perry South
+6350,Carrick
+6351,Beechview
+6352,Squirrel Hill South
+6353,Squirrel Hill South
+6354,Marshall-Shadeland
+6355,Brookline
+6356,Carrick
+6357,Carrick
+6358,Carrick
+6359,Carrick
+6360,Carrick
+6361,South Side Flats
+6362,Carrick
+6363,Perry South
+6364,Carrick
+6365,Beechview
+6366,Homewood South
+6367,Shadyside
+6368,Shadyside
+6369,Larimer
+6370,Northview Heights
+6371,Perry North
+6372,East Hills
+6373,Homewood South
+6374,East Allegheny
+6375,Middle Hill
+6376,Shadyside
+6377,Sheraden
+6378,Carrick
+6379,Northview Heights
+6380,Glen Hazel
+6381,Elliott
+6382,
+6383,South Side Flats
+6384,Manchester
+6385,East Allegheny
+6386,Marshall-Shadeland
+6387,Knoxville
+6388,Bluff
+6389,Carrick
+6390,South Side Flats
+6391,
+6392,Highland Park
+6393,Homewood South
+6394,East Allegheny
+6395,Allegheny Center
+6396,Lincoln-Lemington-Belmar
+6397,Bluff
+6398,Allentown
+6399,Central Business District
+6400,South Side Flats
+6401,Beechview
+6402,East Allegheny
+6403,Lincoln-Lemington-Belmar
+6404,Homewood North
+6405,Upper Lawrenceville
+6406,Allentown
+6407,Central Oakland
+6408,Central Oakland
+6409,Bedford Dwellings
+6410,
+6411,Mount Washington
+6412,South Side Flats
+6413,Bluff
+6414,East Allegheny
+6415,South Side Flats
+6416,South Side Flats
+6417,South Side Flats
+6418,South Side Flats
+6419,Marshall-Shadeland
+6420,Outside City
+6421,Outside City
+6422,Hazelwood
+6423,South Side Slopes
+6424,Marshall-Shadeland
+6425,Carrick
+6426,North Shore
+6427,Brighton Heights
+6428,East Liberty
+6429,Larimer
+6430,Lincoln-Lemington-Belmar
+6431,South Side Flats
+6432,South Shore
+6433,Allegheny Center
+6434,South Side Flats
+6435,Point Breeze
+6436,Westwood
+6437,Central Business District
+6438,Mount Washington
+6439,Oakwood
+6440,Marshall-Shadeland
+6441,Brighton Heights
+6442,Oakwood
+6443,Lincoln-Lemington-Belmar
+6444,Central Business District
+6445,Westwood
+6446,Upper Lawrenceville
+6447,Lincoln-Lemington-Belmar
+6448,Central Lawrenceville
+6449,Central Business District
+6450,Bloomfield
+6451,Arlington
+6452,Perry North
+6453,Lincoln-Lemington-Belmar
+6454,Homewood North
+6455,Central Business District
+6456,Bluff
+6457,South Side Flats
+6458,Perry North
+6459,Homewood North
+6460,Northview Heights
+6461,Northview Heights
+6462,North Shore
+6463,South Side Flats
+6464,South Side Flats
+6465,South Side Flats
+6466,South Side Flats
+6467,South Side Flats
+6468,Stanton Heights
+6469,Central Business District
+6470,Beechview
+6471,Beechview
+6472,South Side Flats
+6473,East Allegheny
+6474,Central Business District
+6475,Allentown
+6476,Allentown
+6477,Summer Hill
+6478,Homewood North
+6479,South Side Flats
+6480,Chateau
+6481,South Side Flats
+6482,Sheraden
+6483,South Side Flats
+6484,South Shore
+6485,North Shore
+6486,South Side Flats
+6487,Troy Hill
+6488,Bluff
+6489,Lincoln-Lemington-Belmar
+6490,East Hills
+6491,Brookline
+6492,
+6493,West Oakland
+6494,Brookline
+6495,East Allegheny
+6496,Chartiers City
+6497,Greenfield
+6498,Central North Side
+6499,Fineview
+6500,South Side Flats
+6501,Windgap
+6502,South Side Flats
+6503,Lincoln-Lemington-Belmar
+6504,
+6505,South Side Flats
+6506,Carrick
+6507,East Carnegie
+6508,Overbrook
+6509,Crawford-Roberts
+6510,
+6511,Spring Garden
+6512,Hays
+6513,Terrace Village
+6514,Terrace Village
+6515,Mount Washington
+6516,East Liberty
+6517,Swisshelm Park
+6518,Allegheny Center
+6519,Allegheny West
+6520,Brighton Heights
+6521,
+6522,Terrace Village
+6523,Allentown
+6524,Bedford Dwellings
+6525,Carrick
+6526,Point Breeze North
+6527,Squirrel Hill South
+6528,Brookline
+6529,East Liberty
+6530,East Hills
+6531,Central Business District
+6532,East Liberty
+6533,East Liberty
+6534,Squirrel Hill South
+6535,Perry North
+6536,Bloomfield
+6537,East Liberty
+6538,Perry South
+6539,Perry South
+6540,South Side Flats
+6541,North Shore
+6542,South Side Flats
+6543,South Side Flats
+6544,Point Breeze North
+6545,Outside County
+6546,Bloomfield
+6547,South Side Flats
+6548,South Side Flats
+6549,South Side Flats
+6550,South Side Flats
+6551,Troy Hill
+6552,Troy Hill
+6553,South Side Flats
+6554,North Oakland
+6555,Bluff
+6556,Mount Washington
+6557,Hazelwood
+6558,Beechview
+6559,East Allegheny
+6560,South Oakland
+6561,Beltzhoover
+6562,Shadyside
+6563,South Oakland
+6564,Brookline
+6565,Homewood North
+6566,Bluff
+6567,Shadyside
+6568,Arlington
+6569,Carrick
+6570,Homewood North
+6571,Polish Hill
+6572,California-Kirkbride
+6573,Polish Hill
+6574,Overbrook
+6575,Beechview
+6576,South Side Flats
+6577,Allentown
+6578,South Side Flats
+6579,Shadyside
+6580,East Liberty
+6581,South Shore
+6582,Carrick
+6583,Brighton Heights
+6584,Homewood South
+6585,Summer Hill
+6586,South Side Flats
+6587,South Side Flats
+6588,South Side Flats
+6589,Brighton Heights
+6590,Marshall-Shadeland
+6591,Knoxville
+6592,South Side Flats
+6593,Central North Side
+6594,Garfield
+6595,Homewood West
+6596,East Liberty
+6597,Shadyside
+6598,Central Business District
+6599,Esplen
+6600,Central Oakland
+6601,Central Business District
+6602,Brookline
+6603,Elliott
+6604,Elliott
+6605,Outside City
+6606,Mount Washington
+6607,Perry South
+6608,Middle Hill
+6609,Central North Side
+6610,West Oakland
+6611,Central Business District
+6612,Brookline
+6613,South Side Slopes
+6614,Brookline
+6615,
+6616,
+6617,
+6618,Point Breeze
+6619,Point Breeze
+6620,Westwood
+6621,
+6622,Mount Washington
+6623,South Side Flats
+6624,Bluff
+6625,Bluff
+6626,Shadyside
+6627,Marshall-Shadeland
+6628,Central Business District
+6629,Point Breeze North
+6630,Marshall-Shadeland
+6631,Terrace Village
+6632,South Side Flats
+6633,Bon Air
+6634,South Side Flats
+6635,East Allegheny
+6636,Central North Side
+6637,Greenfield
+6638,Marshall-Shadeland
+6639,Shadyside
+6640,Allegheny West
+6641,South Side Slopes
+6642,Elliott
+6643,Elliott
+6644,Shadyside
+6645,Outside City
+6646,Hazelwood
+6647,East Allegheny
+6648,Carrick
+6649,Chateau
+6650,Homewood North
+6651,Bluff
+6652,Middle Hill
+6653,East Hills
+6654,
+6655,Central North Side
+6656,Allegheny Center
+6657,South Side Flats
+6658,South Side Slopes
+6659,East Liberty
+6660,Lincoln-Lemington-Belmar
+6661,Summer Hill
+6662,Elliott
+6663,Terrace Village
+6664,North Shore
+6665,South Shore
+6666,California-Kirkbride
+6667,Lincoln-Lemington-Belmar
+6668,Lincoln-Lemington-Belmar
+6669,Carrick
+6670,Beechview
+6671,Middle Hill
+6672,South Side Flats
+6673,South Side Flats
+6674,Lincoln-Lemington-Belmar
+6675,Garfield
+6676,Brookline
+6677,Bluff
+6678,Middle Hill
+6679,Mount Washington
+6680,Perry North
+6681,Perry North
+6682,East Liberty
+6683,Central Lawrenceville
+6684,Troy Hill
+6685,Bloomfield
+6686,Mount Oliver
+6687,
+6688,Middle Hill
+6689,Central Business District
+6690,Marshall-Shadeland
+6691,Bluff
+6692,Knoxville
+6693,St. Clair
+6694,Sheraden
+6695,Hazelwood
+6696,Strip District
+6697,Sheraden
+6698,Strip District
+6699,South Side Flats
+6700,South Side Flats
+6701,Sheraden
+6702,Allegheny Center
+6703,Central Business District
+6704,Central Business District
+6705,Marshall-Shadeland
+6706,Knoxville
+6707,Brighton Heights
+6708,Marshall-Shadeland
+6709,Regent Square
+6710,Central North Side
+6711,Bedford Dwellings
+6712,Brookline
+6713,Bluff
+6714,Knoxville
+6715,Sheraden
+6716,Sheraden
+6717,Sheraden
+6718,South Side Flats
+6719,Upper Hill
+6720,South Oakland
+6721,Central Business District
+6722,Crawford-Roberts
+6723,South Shore
+6724,South Side Flats
+6725,South Side Flats
+6726,Greenfield
+6727,West Oakland
+6728,West Oakland
+6729,Greenfield
+6730,Allegheny Center
+6731,Middle Hill
+6732,East Hills
+6733,Crawford-Roberts
+6734,Beechview
+6735,Beechview
+6736,
+6737,Brighton Heights
+6738,Brighton Heights
+6739,California-Kirkbride
+6740,South Side Flats
+6741,Homewood South
+6742,Homewood South
+6743,Bluff
+6744,Brookline
+6745,Brookline
+6746,South Side Flats
+6747,South Side Flats
+6748,Marshall-Shadeland
+6749,Perry South
+6750,Perry South
+6751,Perry South
+6752,Lower Lawrenceville
+6753,Carrick
+6754,
+6755,South Side Flats
+6756,South Side Flats
+6757,South Side Flats
+6758,
+6759,East Liberty
+6760,Bluff
+6761,Bloomfield
+6762,
+6763,
+6764,Central Business District
+6765,Mount Washington
+6766,West End
+6767,Greenfield
+6768,South Shore
+6769,Esplen
+6770,Perry South
+6771,Carrick
+6772,Point Breeze
+6773,
+6774,Spring Garden
+6775,North Oakland
+6776,West Oakland
+6777,West End
+6778,Troy Hill
+6779,Troy Hill
+6780,Troy Hill
+6781,Upper Hill
+6782,Mount Washington
+6783,Mount Washington
+6784,Crawford-Roberts
+6785,Crawford-Roberts
+6786,Sheraden
+6787,
+6788,East Liberty
+6789,Homewood North
+6790,
+6791,Central Business District
+6792,Central Lawrenceville
+6793,
+6794,Crafton Heights
+6795,Bloomfield
+6796,Garfield
+6797,Upper Hill
+6798,Upper Hill
+6799,Allentown
+6800,South Side Flats
+6801,Lincoln Place
+6802,Lincoln Place
+6803,Stanton Heights
+6804,Carrick
+6805,Upper Hill
+6806,Beechview
+6807,Brighton Heights
+6808,Brighton Heights
+6809,Perry South
+6810,North Oakland
+6811,Homewood West
+6812,Homewood West
+6813,Homewood North
+6814,Hazelwood
+6815,Beechview
+6816,Hazelwood
+6817,Hazelwood
+6818,Fairywood
+6819,Squirrel Hill South
+6820,East Allegheny
+6821,Squirrel Hill South
+6822,Perry North
+6823,Lower Lawrenceville
+6824,Central Business District
+6825,Spring Hill-City View
+6826,
+6827,West Oakland
+6828,Lincoln-Lemington-Belmar
+6829,Beltzhoover
+6830,Allegheny Center
+6831,Central North Side
+6832,Central North Side
+6833,Central North Side
+6834,Allentown
+6835,Mount Washington
+6836,Central Business District
+6837,Highland Park
+6838,Point Breeze North
+6839,Hays
+6840,Hays
+6841,Elliott
+6842,Beltzhoover
+6843,Duquesne Heights
+6844,South Side Slopes
+6845,Central Business District
+6846,Central Business District
+6847,Sheraden
+6848,
+6849,Perry North
+6850,Perry North
+6851,Spring Hill-City View
+6852,Allentown
+6853,Homewood West
+6854,Mount Oliver
+6855,Sheraden
+6856,
+6857,Central Business District
+6858,Brighton Heights
+6859,
+6860,South Side Flats
+6861,
+6862,South Side Flats
+6863,Bedford Dwellings
+6864,Mount Washington
+6865,Elliott
+6866,East Liberty
+6867,Glen Hazel
+6868,Brighton Heights
+6869,Perry South
+6870,Northview Heights
+6871,Central Business District
+6872,Fineview
+6873,Crawford-Roberts
+6874,Sheraden
+6875,Central Oakland
+6876,Terrace Village
+6877,Hazelwood
+6878,Elliott
+6879,Elliott
+6880,Outside City
+6881,Sheraden
+6882,North Shore
+6883,Bluff
+6884,Sheraden
+6885,Central Business District
+6886,Mount Washington
+6887,Homewood South
+6888,
+6889,Crawford-Roberts
+6890,Sheraden
+6891,Brookline
+6892,Hays
+6893,Chateau
+6894,South Shore
+6895,Brighton Heights
+6896,East Liberty
+6897,Central Oakland
+6898,Sheraden
+6899,Manchester
+6900,Manchester
+6901,Mount Washington
+6902,Mount Washington
+6903,Brighton Heights
+6904,Elliott
+6905,Perry North
+6906,Allegheny Center
+6907,Central Business District
+6908,Central Business District
+6909,Knoxville
+6910,Homewood South
+6911,Brighton Heights
+6912,Crawford-Roberts
+6913,Crawford-Roberts
+6914,Larimer
+6915,Brighton Heights
+6916,Central Business District
+6917,Central Business District
+6918,Allentown
+6919,Duquesne Heights
+6920,South Side Flats
+6921,South Oakland
+6922,Allentown
+6923,
+6924,Mount Washington
+6925,East Hills
+6926,Brookline
+6927,Allentown
+6928,Larimer
+6929,Beechview
+6930,Friendship
+6931,Sheraden
+6932,Central Lawrenceville
+6933,Carrick
+6934,Shadyside
+6935,Chateau
+6936,Spring Hill-City View
+6937,East Hills
+6938,Bluff
+6939,Middle Hill
+6940,Upper Lawrenceville
+6941,Central Oakland
+6942,Bluff
+6943,East Liberty
+6944,East Liberty
+6945,Central North Side
+6946,Central Business District
+6947,East Allegheny
+6948,Bluff
+6949,East Hills
+6950,
+6951,Hazelwood
+6952,Hazelwood
+6953,Hazelwood
+6954,East Allegheny
+6955,Brighton Heights
+6956,Bluff
+6957,Bluff
+6958,Greenfield
+6959,Crawford-Roberts
+6960,Fairywood
+6961,Fairywood
+6962,
+6963,Carrick
+6964,Carrick
+6965,Outside State
+6966,Spring Hill-City View
+6967,Central Lawrenceville
+6968,Hazelwood
+6969,Hazelwood
+6970,Sheraden
+6971,Bloomfield
+6972,Garfield
+6973,Mount Washington
+6974,Sheraden
+6975,Carrick
+6976,Lower Lawrenceville
+6977,Beltzhoover
+6978,Chateau
+6979,Chateau
+6980,Chartiers City
+6981,Carrick
+6982,Carrick
+6983,Carrick
+6984,Upper Hill
+6985,Upper Hill
+6986,Upper Hill
+6987,Chateau
+6988,
+6989,Beechview
+6990,Central Business District
+6991,Sheraden
+6992,Homewood West
+6993,Homewood West
+6994,Arlington
+6995,Mount Washington
+6996,South Side Slopes
+6997,North Oakland
+6998,Bluff
+6999,Squirrel Hill South
+7000,South Side Slopes
+7001,Knoxville
+7002,South Side Flats
+7003,Larimer
+7004,South Shore
+7005,Esplen
+7006,Hazelwood
+7007,Central North Side
+7008,Central Business District
+7009,Mount Washington
+7010,Middle Hill
+7011,South Oakland
+7012,Allentown
+7013,Allentown
+7014,Allentown
+7015,Knoxville
+7016,Squirrel Hill South
+7017,
+7018,
+7019,Greenfield
+7020,Carrick
+7021,Carrick
+7022,Mount Washington
+7023,Brighton Heights
+7024,Sheraden
+7025,
+7026,
+7027,Perry North
+7028,Mount Washington
+7029,Mount Washington
+7030,Knoxville
+7031,Beechview
+7032,Spring Hill-City View
+7033,Homewood North
+7034,Perry North
+7035,Carrick
+7036,South Side Flats
+7037,Carrick
+7038,Bluff
+7039,Friendship
+7040,Beechview
+7041,Beechview
+7042,Northview Heights
+7043,Marshall-Shadeland
+7044,
+7045,Mount Washington
+7046,Bluff
+7047,Bluff
+7048,Bluff
+7049,Bluff
+7050,Bluff
+7051,Bluff
+7052,Bluff
+7053,Bluff
+7054,Bluff
+7055,Bluff
+7056,Bluff
+7057,South Side Flats
+7058,Bluff
+7059,South Side Flats
+7060,South Side Flats
+7061,South Side Flats
+7062,Highland Park
+7063,Mount Washington
+7064,Central Business District
+7065,
+7066,Allegheny Center
+7067,Sheraden
+7068,
+7069,Upper Hill
+7070,Brighton Heights
+7071,Squirrel Hill South
+7072,South Side Slopes
+7073,East Hills
+7074,Homewood West
+7075,East Hills
+7076,Knoxville
+7077,Hazelwood
+7078,Central Business District
+7079,Shadyside
+7080,South Side Flats
+7081,Homewood North
+7082,Bedford Dwellings
+7083,Highland Park
+7084,Morningside
+7085,East Allegheny
+7086,Crawford-Roberts
+7087,Perry South
+7088,Northview Heights
+7089,Squirrel Hill South
+7090,Squirrel Hill South
+7091,Central Business District
+7092,Perry North
+7093,South Side Flats
+7094,Marshall-Shadeland
+7095,Beechview
+7096,Carrick
+7097,Squirrel Hill South
+7098,Sheraden
+7099,Marshall-Shadeland
+7100,Perry North
+7101,Perry North
+7102,Perry North
+7103,East Hills
+7104,Knoxville
+7105,Outside State
+7106,Esplen
+7107,Beechview
+7108,East Allegheny
+7109,East Allegheny
+7110,Northview Heights
+7111,Central North Side
+7112,Sheraden
+7113,East Hills
+7114,Point Breeze
+7115,North Shore
+7116,Lincoln-Lemington-Belmar
+7117,Greenfield
+7118,Lincoln-Lemington-Belmar
+7119,North Shore
+7120,Sheraden
+7121,Sheraden
+7122,Brighton Heights
+7123,South Side Flats
+7124,Perry North
+7125,Bluff
+7126,South Side Flats
+7127,Homewood South
+7128,Homewood South
+7129,Homewood South
+7130,East Allegheny
+7131,Knoxville
+7132,East Allegheny
+7133,Point Breeze North
+7134,East Allegheny
+7135,Central Business District
+7136,Bluff
+7137,Central North Side
+7138,Brookline
+7139,Central Business District
+7140,North Shore
+7141,South Side Flats
+7142,Manchester
+7143,South Side Flats
+7144,Elliott
+7145,South Side Flats
+7146,Greenfield
+7147,
+7148,Middle Hill
+7149,California-Kirkbride
+7150,Greenfield
+7151,Bedford Dwellings
+7152,Perry South
+7153,Shadyside
+7154,East Allegheny
+7155,East Allegheny
+7156,Central Business District
+7157,Chateau
+7158,Mount Oliver
+7159,East Liberty
+7160,Bloomfield
+7161,Elliott
+7162,Homewood South
+7163,Homewood South
+7164,Northview Heights
+7165,East Allegheny
+7166,
+7167,Brighton Heights
+7168,
+7169,
+7170,Sheraden
+7171,Highland Park
+7172,Marshall-Shadeland
+7173,
+7174,
+7175,Squirrel Hill South
+7176,Perry North
+7177,Brighton Heights
+7178,
+7179,Arlington
+7180,Allentown
+7181,South Side Flats
+7182,Sheraden
+7183,Sheraden
+7184,Carrick
+7185,Squirrel Hill North
+7186,Middle Hill
+7187,Central Business District
+7188,East Liberty
+7189,South Side Flats
+7190,Knoxville
+7191,Shadyside
+7192,Homewood South
+7193,Marshall-Shadeland
+7194,Marshall-Shadeland
+7195,Marshall-Shadeland
+7196,Marshall-Shadeland
+7197,Knoxville
+7198,Central Business District
+7199,Central Business District
+7200,Troy Hill
+7201,Perry South
+7202,Perry South
+7203,Perry South
+7204,Allegheny Center
+7205,Carrick
+7206,East Allegheny
+7207,Hazelwood
+7208,East Allegheny
+7209,East Allegheny
+7210,Crafton Heights
+7211,Crafton Heights
+7212,Banksville
+7213,Crawford-Roberts
+7214,South Oakland
+7215,Troy Hill
+7216,South Oakland
+7217,Bloomfield
+7218,Marshall-Shadeland
+7219,Bluff
+7220,Knoxville
+7221,Central Business District
+7222,East Liberty
+7223,Westwood
+7224,Crawford-Roberts
+7225,Brighton Heights
+7226,South Shore
+7227,East Allegheny
+7228,Marshall-Shadeland
+7229,Homewood North
+7230,Upper Lawrenceville
+7231,Spring Hill-City View
+7232,
+7233,
+7234,Spring Hill-City View
+7235,Perry South
+7236,Homewood North
+7237,Homewood North
+7238,East Allegheny
+7239,North Oakland
+7240,East Allegheny
+7241,Stanton Heights
+7242,Allegheny Center
+7243,Central Business District
+7244,Sheraden
+7245,
+7246,South Shore
+7247,Larimer
+7248,Friendship
+7249,West Oakland
+7250,Central Business District
+7251,Shadyside
+7252,Central North Side
+7253,Knoxville
+7254,Allentown
+7255,North Shore
+7256,Allentown
+7257,North Shore
+7258,Central North Side
+7259,North Shore
+7260,Allentown
+7261,Bluff
+7262,Allentown
+7263,Carrick
+7264,Carrick
+7265,Carrick
+7266,Allegheny West
+7267,Central Business District
+7268,Crawford-Roberts
+7269,Perry South
+7270,Northview Heights
+7271,East Liberty
+7272,Bluff
+7273,Homewood West
+7274,Upper Hill
+7275,Perry North
+7276,
+7277,North Shore
+7278,East Allegheny
+7279,East Allegheny
+7280,East Allegheny
+7281,North Shore
+7282,South Side Flats
+7283,Beltzhoover
+7284,East Hills
+7285,Perry South
+7286,South Side Flats
+7287,Central Business District
+7288,East Hills
+7289,
+7290,Brighton Heights
+7291,Central North Side
+7292,Homewood West
+7293,Crafton Heights
+7294,Point Breeze
+7295,South Side Flats
+7296,Manchester
+7297,Brighton Heights
+7298,East Liberty
+7299,Highland Park
+7300,Stanton Heights
+7301,Homewood South
+7302,Arlington
+7303,Mount Washington
+7304,Central Business District
+7305,Knoxville
+7306,Outside City
+7307,Central Business District
+7308,Arlington Heights
+7309,North Shore
+7310,North Shore
+7311,North Shore
+7312,North Shore
+7313,South Side Flats
+7314,Central Business District
+7315,Polish Hill
+7316,South Shore
+7317,Squirrel Hill North
+7318,Spring Hill-City View
+7319,South Side Flats
+7320,Central North Side
+7321,
+7322,East Allegheny
+7323,
+7324,Brighton Heights
+7325,Squirrel Hill North
+7326,North Shore
+7327,Allegheny Center
+7328,Allegheny Center
+7329,South Side Flats
+7330,South Side Flats
+7331,Perry South
+7332,Perry South
+7333,Mount Washington
+7334,Knoxville
+7335,Mount Washington
+7336,Highland Park
+7337,Central Oakland
+7338,East Allegheny
+7339,Central Lawrenceville
+7340,Beltzhoover
+7341,Larimer
+7342,Bedford Dwellings
+7343,East Allegheny
+7344,South Side Flats
+7345,
+7346,Knoxville
+7347,Knoxville
+7348,Garfield
+7349,Garfield
+7350,Point Breeze North
+7351,Point Breeze North
+7352,Hazelwood
+7353,Fineview
+7354,East Allegheny
+7355,Larimer
+7356,Carrick
+7357,Central North Side
+7358,Crawford-Roberts
+7359,South Oakland
+7360,Central Lawrenceville
+7361,Middle Hill
+7362,Middle Hill
+7363,Marshall-Shadeland
+7364,Knoxville
+7365,Knoxville
+7366,Bedford Dwellings
+7367,Allentown
+7368,Brookline
+7369,Regent Square
+7370,Regent Square
+7371,Marshall-Shadeland
+7372,Carrick
+7373,Homewood South
+7374,South Side Flats
+7375,South Side Flats
+7376,Beltzhoover
+7377,Central Business District
+7378,Crawford-Roberts
+7379,Central Business District
+7380,Homewood West
+7381,Lower Lawrenceville
+7382,East Allegheny
+7383,Knoxville
+7384,Bluff
+7385,Bluff
+7386,Central Oakland
+7387,Larimer
+7388,Allentown
+7389,Brookline
+7390,Homewood North
+7391,Polish Hill
+7392,Bluff
+7393,South Side Flats
+7394,Arlington
+7395,Central Business District
+7396,Central Business District
+7397,Allegheny Center
+7398,Homewood West
+7399,East Hills
+7400,Chartiers City
+7401,North Oakland
+7402,South Side Flats
+7403,South Side Flats
+7404,Garfield
+7405,Knoxville
+7406,South Side Flats
+7407,Lower Lawrenceville
+7408,Marshall-Shadeland
+7409,South Side Flats
+7410,Allentown
+7411,Homewood North
+7412,
+7413,Hazelwood
+7414,Central Business District
+7415,Sheraden
+7416,Crawford-Roberts
+7417,Central Business District
+7418,Marshall-Shadeland
+7419,South Side Flats
+7420,Hazelwood
+7421,Hazelwood
+7422,South Side Slopes
+7423,South Side Flats
+7424,South Side Flats
+7425,Larimer
+7426,Perry South
+7427,Bedford Dwellings
+7428,Shadyside
+7429,Shadyside
+7430,South Side Flats
+7431,South Side Flats
+7432,Central North Side
+7433,Brookline
+7434,Brookline
+7435,Central Business District
+7436,Central North Side
+7437,East Liberty
+7438,California-Kirkbride
+7439,Bluff
+7440,South Side Slopes
+7441,South Side Slopes
+7442,Bon Air
+7443,Knoxville
+7444,Bluff
+7445,Crawford-Roberts
+7446,Terrace Village
+7447,Central Oakland
+7448,Highland Park
+7449,Lincoln-Lemington-Belmar
+7450,Sheraden
+7451,Homewood North
+7452,Sheraden
+7453,Bedford Dwellings
+7454,Chateau
+7455,Strip District
+7456,Homewood South
+7457,South Side Flats
+7458,Chateau
+7459,Carrick
+7460,Central North Side
+7461,Brookline
+7462,Spring Hill-City View
+7463,Spring Hill-City View
+7464,East Allegheny
+7465,Central Oakland
+7466,East Hills
+7467,Bloomfield
+7468,Bedford Dwellings
+7469,Bedford Dwellings
+7470,Homewood West
+7471,South Side Flats
+7472,South Oakland
+7473,Central Business District
+7474,Central Business District
+7475,Central Business District
+7476,South Side Flats
+7477,North Shore
+7478,
+7479,Sheraden
+7480,Bloomfield
+7481,Highland Park
+7482,Central Business District
+7483,East Liberty
+7484,East Liberty
+7485,Mount Washington
+7486,Middle Hill
+7487,Middle Hill
+7488,East Hills
+7489,Bedford Dwellings
+7490,Bedford Dwellings
+7491,California-Kirkbride

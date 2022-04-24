@@ -1,8 +1,8 @@
 # FinalProject
 Safety for Children
-Samuel Wang saw210@pitt.edu Recreation
-Yurui Luo yul244@pitt.edu Education
-Jing Tong jit52@pitt.edu Crime
+Samuel Wang saw210@pitt.edu Recreation (Recreation)
+Yurui Luo yul244@pitt.edu Education (Final (Education part)-Yurui Luo)
+Jing Tong jit52@pitt.edu Crime (Final Project - JingTong)
 Canvas Group 10
 Playgrounds - dataset containing all neighborhoods that have a playground, https://data.wprdc.org/dataset/playgrounds
 Courts and Rinks - dataset containing all neighborhoods that have a court and/or a rink or multiple, https://data.wprdc.org/dataset/city-of-pittsburgh-courts
